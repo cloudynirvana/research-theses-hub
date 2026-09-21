@@ -1,6 +1,8 @@
 # Disclaimer
 
-This hub and the works it indexes are **computational / in-silico
+**Thesis 0** ([thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp)) is a historical wet-lab B.Sc. project (Nile University, 2022). It is indexed here as a separate study and as the **chapter-format** source for computational theses 01–03. Its in vitro AgNP / α-amylase results are **not** findings of theses 01–03 and must not be mixed with them.
+
+This hub and the computational works it indexes (theses 01–03) are **computational / in-silico
 research**. They are intended for scientific scrutiny, methods discussion,
 and software reuse under each repository’s licence.
 
