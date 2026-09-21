@@ -1,0 +1,73 @@
+# Next papers
+
+Five-to-eight **new** medical/computational problem topics. They are
+intentionally **not** restatements of theses 01–03.
+
+| Existing thesis | Problem already claimed |
+| --- | --- |
+| 01 | Evidence-gated binding of an oncology knowledge graph (OnCo) to a frozen dynamical cancer-state model without skip-level promotion into Θ |
+| 02 | NSTG-constrained `CaseCard` → `PathwaySketch` exploration that never auto-translates guidelines into ODE coefficients |
+| 03 | Disease Profile as a versioned **research object** for systemic personalized-medicine *research* (not CDS) |
+
+Each item below is a research-only problem. Not a trial protocol, not a
+device, not a dose, not a cure. No DOIs are implied.
+
+---
+
+## NP-01 — Structural and practical identifiability of multi-channel CCLE-calibrated metabolic ODEs
+
+**Problem statement.** Can a shared metabolic cancer-state ODE recover a unique (or practically unique) parameter set from multi-channel CCLE metabolomics across distinct lineages, or does identifiability collapse once synthetic/single-summary targets are replaced by real, noisy outputs?
+
+*Why it is not 01–03.* This is an identification / output-map problem on metabolomics channels, not a knowledge-graph adapter, not NSTG CaseCards, not a Disease Profile schema. A working draft already sits in `project-confluence` `docs/manuscript/structural_identifiability_ccle_manuscript.md` (catalog B04); it is not yet a completed paper.
+
+## NP-02 — Spatial transport identifiability: when a lumped ODE cannot represent a desmoplastic delivery barrier
+
+**Problem statement.** For stroma-dominated carcinomas, which observables (interstitial pressure, collagen anisotropy, perfusion maps) are required before a 0-D burden ODE is even structurally capable of representing delivery failure, versus remaining an unidentified lumped sink?
+
+*Why it is not 01–03.* Thesis 03 *names* PDAC as a research object; thesis 02 *cards* it. This topic asks a spatial PDE / transport identifiability question the current 15-D CancerODE does not answer.
+
+## NP-03 — Occult residual disease as a hybrid switching system, not a hidden parameter
+
+**Problem statement.** Can quiescence, angiogenic pause, and immune-held latency be written as explicit hybrid/Filippov modes with named switching observables, such that “occult” never becomes a licence to smuggle an extra continuous state into Θ?
+
+*Why it is not 01–03.* Dormancy appears as a seed CaseCard and a profiled disease-class; this paper would be a hybrid-dynamical-systems method with falsifiable switching tests, not another research-object schema.
+
+## NP-04 — Stiff–sloppy spectra and systematic reduction of high-dimensional cancer-state ODEs
+
+**Problem statement.** Which directions of the 15-D CONFLUENCE state-parameter space are sloppy under realistic observation maps, and can a documented MBAM / Fisher-geometry reduction preserve the gated claims of the full model without silently renaming leftover sloppy combinations as biology?
+
+*Why it is not 01–03.* Model-reduction diagnostics, not knowledge gates, not guideline constraints, not profile export.
+
+## NP-05 — Metastasis as spreading on anatomical graphs versus local burden dynamics
+
+**Problem statement.** Does a local tumour-burden ODE remain an adequate in-silico object once dissemination is posed as a stochastic process on an organ-to-organ graph, or do graph observables (seeded sites, transit times, organ-specific carrying capacities) remain unidentified under current lumped outputs?
+
+*Why it is not 01–03.* New spatial scale (anatomical network), not OnCo-to-ODE provenance, not NSTG, not Disease Profile boards.
+
+## NP-06 — Connectome-style sparse controllers as in-silico policy classes (not fly-neuron therapy)
+
+**Problem statement.** Relative to lumped adaptive-therapy controllers, do sparse Kenyon-cell-style policies change closed-loop *computational* behaviour on a toy cancer ODE in a way that is identifiable from controller architecture alone — without interpreting fly neurons, games, or visualizations as treatment?
+
+*Why it is not 01–03.* Control-policy identification. Existing `fly-brain-vs-tumor` and `malecns-immune-sight` repos are a **game** and a **visualization**; they are not this paper and not medical advice.
+
+## NP-07 — Gompertz hazard from coupled-subsystem failure (computational biogerontology object)
+
+**Problem statement.** Under what network-coupling assumptions does near-linear local damage produce Gompertz-like hazard in a simulated subsystem graph, and which of those assumptions are identifiable from public demographic schedules versus remaining free gain parameters?
+
+*Why it is not 01–03.* Aging-network kinetics, not oncology knowledge graphs, not NSTG pathology cards, not Disease Profiles. Related proposal text exists (`project-confluence` `thesis_proposal.md`) but this hub **does not** carry forward age-reversal or clinically actionable claims; the paper, if written, stays an in-silico identifiability/kinetics study.
+
+## NP-08 — Host-infection × residual-burden coupling as a delayed-risk constraint graph
+
+**Problem statement.** Can infection, marrow suppression, and residual-burden relapse risk be represented as a *qualitative delayed-risk graph* with explicit non-parameters, such that host-context constraints change hypothesis rank without becoming PK/PD coefficients or care pathways?
+
+*Why it is not 01–03.* Thesis 02 already refuses NSTG-as-coefficient and uses theme flags on CaseCards. This topic isolates **infection–burden delay structure** as its own computational object (graphs, waiting times, competing hazards in silico), independent of Nigerian guideline packaging and independent of Disease Profile export.
+
+---
+
+## What not to spin into a “next thesis”
+
+- Re-documenting the P0 OnCo adapter (already thesis 01 / findings chapter).
+- Another CaseCard seed pack without a new mathematical object (thesis 02).
+- A second schema for profiles (thesis 03 forbids a parallel contract).
+- Promoting games, dashboards, or MCP tools to papers.
+- Any title whose success criterion is a clinical response, dose, or cure.

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Research Theses Hub"
+message: "Cite this GitHub repository for the hub index. Cite each thesis from its landing repo plus the canonical manuscript path. No document DOI is registered. Do not invent DOIs."
+type: software
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+repository-code: "https://github.com/cloudynirvana/research-theses-hub"
+url: "https://github.com/cloudynirvana/research-theses-hub"
+license: MIT
+date-released: "2026-09-21"
+abstract: >-
+  Catalog of thesis-worthy computational research by Kelechi Emeka
+  Ogbonna: dedicated landing repos for theses 01–03 (CONFLUENCE × OnCo;
+  Complexity Science / NSTG-guided in-silico pathology; Disease Profile
+  method), working drafts in project-confluence manuscripts, and related
+  software with honest labels. Research / in-silico only. Not a medical
+  device, not clinical decision support, not a dose, and not a cure.
+  Institutional email pending. Google Scholar and ResearchGate indexing
+  are manual later steps.
+keywords:
+  - computational oncology
+  - in-silico research
+  - research catalog
+  - knowledge gates
+  - disease profile
+  - complexity science
+  - not a medical device
