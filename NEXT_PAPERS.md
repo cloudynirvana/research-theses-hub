@@ -1,11 +1,16 @@
 # Next papers
 
+> **Validation wave:** planned theses T35–T37, T41–T42 (and held T38–T40,
+> T43) live in [VALIDATION_NEXT.md](VALIDATION_NEXT.md). Do **not** open
+> new repos for those until the hub index of T19–T34 has merged.
+
 Five-to-eight **new** medical/computational problem topics. They were
 intentionally **not** restatements of theses 01–03. All eight items
 below are now **published** as dedicated theses (NP-01 → T09, NP-02 → T11,
 NP-03 → T04, NP-04 → T12, NP-05 → T05, NP-06 → T06, NP-07 → T13,
 NP-08 → T14). Leave them here as a historical map; do not re-open them
-as next papers.
+as next papers. Composition theses **T19–T34** are indexed in
+[CATALOG.md](CATALOG.md) / [README.md](README.md).
 
 | Existing thesis | Problem already claimed | Status |
 | --- | --- | --- |
@@ -27,6 +32,7 @@ as next papers.
 | 16 | Mitochondrial ΔΨm / AMPK–PI3K–GLUT1 phytochemical screen under gates; surrogate scores are not Θ | **done / published** (`thesis-16-mitochondrial-dpsim-phytochemical-screen`; was R5 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
 | 17 | Complete Lyapunov partition of a cancer ODE; a collocation defect is not a certified Conley set | **done / published** (`thesis-17-complete-lyapunov-cancer-ode`; published computational object) |
 | 18 | Bounded Adaptive Coherence: grounded-Laplacian λ_min; aging-like and cancer-like sectors on a toy tensor | **done / published** (`thesis-18-bounded-adaptive-coherence`; published computational object) |
+| 19–34 | Composition / cross-product theses (forcing admission, sparse LB observer, barrier edges, profile composition, host-ranked immuno, reduction-preserving ranks, BAC×Gompertz, chain-recurrent×occult, sparse controllers under LB observer, admitted forcings after reduction, host×profile, occult×barrier, CaseCard admission predicates, BAC under barrier transport, chain-recurrent under surviving ranks, AgNP forcing provenance) | **done / published** — see [CATALOG.md](CATALOG.md) Tier A; orphans formerly labelled 19–26 are `DEPRECATED` |
 
 Each item below is a research-only problem. Not a trial protocol, not a
 device, not a dose, not a cure. No DOIs are implied.

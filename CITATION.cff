@@ -10,10 +10,10 @@ authors:
 repository-code: "https://github.com/cloudynirvana/research-theses-hub"
 url: "https://github.com/cloudynirvana/research-theses-hub"
 license: MIT
-date-released: "2026-09-21"
+date-released: "2026-09-22"
 abstract: >-
   Catalog of thesis-worthy computational research by Kelechi Emeka
-  Ogbonna: dedicated landing repos for theses 00–18 (wet-lab B.Sc. papaya
+  Ogbonna: dedicated landing repos for theses 00–34 (wet-lab B.Sc. papaya
   AgNP; CONFLUENCE × OnCo; Complexity Science / NSTG-guided in-silico
   pathology; Disease Profile method; occult hybrid switching; metastasis
   on anatomical graphs; sparse connectome-style controllers; TNBC
@@ -23,9 +23,11 @@ abstract: >-
   identifiability; stiff–sloppy ODE reduction; load×gain Gompertz
   hazard; infection × residual-burden delay graph; AgNP–exosome–Raman
   multi-observation profile; gated mitochondrial phytochemical screen;
-  complete Lyapunov partition; Bounded Adaptive Coherence), working
-  drafts in project-confluence manuscripts, and related software with
-  honest labels. Research / in-silico only for 01–18. Not a medical
+  complete Lyapunov partition; Bounded Adaptive Coherence; composition
+  theses 19–34 including forcing admission, sparse observers, barrier
+  edges, and CaseCard admission predicates), working drafts in
+  project-confluence manuscripts, and related software with honest
+  labels. Research / in-silico only for 01–34. Not a medical
   device, not clinical decision support, not a dose, and not a cure.
   No document DOI. Institutional email pending. Google Scholar and
   ResearchGate indexing are manual later steps.
