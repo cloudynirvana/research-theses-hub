@@ -1,6 +1,6 @@
 # Refined next theses (journal-path)
 
-Grounded in: B.Sc. *Carica papaya* AgNP antidiabetic thesis (2022); computational theses 01–07; attached roadmaps (TNBC phytochemical tipping-point ODE; compartmental nanobiocomposite; immunometabolic systems biology; in-silico mitochondrial reprogramming); and the non-recursive-axiom white paper (as **epistemic** framing only—not a clinical claim).
+Grounded in: B.Sc. *Carica papaya* AgNP antidiabetic thesis (2022); computational theses 01–10; attached roadmaps (TNBC phytochemical tipping-point ODE; compartmental nanobiocomposite; immunometabolic systems biology; in-silico mitochondrial reprogramming); and the non-recursive-axiom white paper (as **epistemic** framing only—not a clinical claim).
 
 Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (Problem → Justification → Aim/Objectives → Significance → Scope → Lit → Methods → Results → Discussion). Research honesty: in-silico / in-vitro architecture first; **not** CDS, dosing, or cure.
 
@@ -18,13 +18,18 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 | T5 | Metastasis on anatomical graphs | Burden ODE ≠ organ-graph process | **done / published** (`thesis-05-metastasis-anatomical-graphs`) |
 | T6 | Sparse connectome controllers | Architecture class ≠ fly therapy | **done / published** (`thesis-06-sparse-connectome-controllers`) |
 | T7 | TNBC ATP–ROS–glucose identifiability under known forcings | Kinetic Θ ≠ phytochemical efficacy | **done / published** (`thesis-07-tnbc-tipping-identifiability`; was R2) |
+| T8 | Papaya AgNP α-amylase assay as a named observation channel | Assay ≠ treatment parameter in Θ | **done / published** (`thesis-08-papaya-agnp-observation-channel`; was R1) |
+| T9 | Shared metabolic ODE under multi-channel noisy maps | Synthetic surrogate ≠ DepMap download; ranks stay in the repo | **done / published** (`thesis-09-ccle-metabolic-ode-identifiability`; was NP-01) |
+| T10 | Immunometabolic refuse-as-parameter | Lactate / checkpoint proxy / host bound ≠ Θ | **done / published** (`thesis-10-immunometabolic-refuse-as-parameter`; was R3) |
 
 ---
 
 ## Refined theses (priority order)
 
-### R1 — Phytochemical–nanocarrier enzyme assay as an *observation channel*, not a therapy claim
+### R1 — Phytochemical–nanocarrier enzyme assay as an *observation channel*, not a therapy claim — **DONE / PUBLISHED as T08**
 **Working title:** Green-synthesized silver nanoparticles from *Carica papaya* as an in-vitro metabolic observation channel: linking α-amylase inhibition to gated dynamical oncology objects.
+
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel (`dedicated-repo-published`). Nile B.Sc. chapters. The undergraduate assay is a named observation channel. It does not re-tabulate Thesis 0, and it does not enter Θ as treatment. Research only.
 
 **Problem:** Undergraduate AgNP–papaya results are usually left as a standalone bioassay; they are rarely formalised as a *named observation channel* that can stress-test computational metabolic ODEs without being smuggled into Θ as a “treatment parameter.”
 
@@ -51,8 +56,10 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 
 ---
 
-### R3 — Immunometabolic tumour–immune ODEs with *refuse-as-parameter* host constraints
-**Working title:** Immunometabolic tumour–immune interaction models under explicit non-parameters: lactate, checkpoint proxies, and host constraints that must not enter Θ.
+### R3 — Immunometabolic tumour–immune ODEs with *refuse-as-parameter* host constraints — **DONE / PUBLISHED as T10**
+**Working title:** Immunometabolic tumour-immune interaction ODEs under explicit non-parameters: lactate, checkpoint proxies, and host constraints that must not enter Θ.
+
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter (`dedicated-repo-published`). Nile B.Sc. chapters. Lactate, checkpoint proxies, and host constraints are evidence objects that can change hypothesis rank without entering Θ. Research only; not a checkpoint dose.
 
 **Problem:** Immunotherapy-resistance proposals often encode “immune escape” as tunable coefficients; the Sussex-style immunometabolic proposal needs a CONFLUENCE/T2-grade refusal layer so metabolic suppression of immunity is evidenced, not assumed into parameters.
 
@@ -116,14 +123,16 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 
 ## What not to refine into a thesis yet
 - Clinical translation phases, mouse→human efficacy, or “open-source cure tool” language from roadmaps (keep as *future work*, not aims).
-- Equating papaya AgNP α-amylase inhibition with in-vivo glycaemic control.
+- Equating papaya AgNP α-amylase inhibition with in-vivo glycaemic control. T08 does not do that.
+- Re-opening R1 (already thesis 08) or R3 (already thesis 10).
 - Treating Emptiness/Love as biomedical therapeutics.
 - Promoting fly-brain games to medical controllers (already fenced in T6).
+- Copying thesis 09 ranks out of the landing repo into this note.
 
 ## Suggested build order
 1. **R2** — **done / published as T07**  
-2. **R1** (binds T0 to the portfolio)  
-3. **R3** (immunometabolism + gates)  
+2. **R1** — **done / published as T08**  
+3. **R3** — **done / published as T10**  
 4. **R4** then **R5** (nano + mito)  
-5. **R6** (short theory) / **R7** as a chapter of R2 / T07  
+5. **R6** (short theory) / **R7** as a chapter of T07  
 
