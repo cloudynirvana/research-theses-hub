@@ -1,10 +1,11 @@
 # Next papers
 
 Five-to-eight **new** medical/computational problem topics. They were
-intentionally **not** restatements of theses 01–03. Four items below
-are now **published** as dedicated theses (NP-01 → T09, NP-03 → T04,
-NP-05 → T05, NP-06 → T06). Leave them here as a historical map; do not
-re-open them as next papers.
+intentionally **not** restatements of theses 01–03. All eight items
+below are now **published** as dedicated theses (NP-01 → T09, NP-02 → T11,
+NP-03 → T04, NP-04 → T12, NP-05 → T05, NP-06 → T06, NP-07 → T13,
+NP-08 → T14). Leave them here as a historical map; do not re-open them
+as next papers.
 
 | Existing thesis | Problem already claimed | Status |
 | --- | --- | --- |
@@ -18,6 +19,14 @@ re-open them as next papers.
 | 08 | Undergraduate AgNP–papaya α-amylase work as a named observation channel that stress-tests metabolic ODEs without entering Θ as treatment | **done / published** (`thesis-08-papaya-agnp-observation-channel`; was R1 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
 | 09 | Shared metabolic ODE under multi-channel metabolomics-style maps (synthetic surrogate; ranks live in the dedicated repo, not in this note) | **done / published** (`thesis-09-ccle-metabolic-ode-identifiability`; was NP-01) |
 | 10 | Lactate, checkpoint proxies, and host constraints as evidence objects that change hypothesis rank without entering Θ | **done / published** (`thesis-10-immunometabolic-refuse-as-parameter`; was R3 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
+| 11 | When is a lumped burden ODE structurally unable to represent a desmoplastic delivery barrier? | **done / published** (`thesis-11-desmoplastic-transport-identifiability`; was NP-02) |
+| 12 | Stiff–sloppy spectra and MBAM-style reduction, without renaming sloppy combinations as biology | **done / published** (`thesis-12-stiff-sloppy-cancer-ode-reduction`; was NP-04) |
+| 13 | Near-linear local damage to a Gompertz-like hazard under load×gain; which gains stay free on demographic-style schedules? | **done / published** (`thesis-13-gompertz-load-gain-coupling`; was NP-07) |
+| 14 | Infection × residual-burden as a delayed-risk constraint graph; host windows change rank without entering Θ | **done / published** (`thesis-14-infection-residual-burden-delay-graph`; was NP-08) |
+| 15 | AgNP–exosome–Raman as a multi-observation Disease Profile; a merged θ is refused | **done / published** (`thesis-15-nanobiocomposite-multiobservation-profile`; was R4 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
+| 16 | Mitochondrial ΔΨm / AMPK–PI3K–GLUT1 phytochemical screen under gates; surrogate scores are not Θ | **done / published** (`thesis-16-mitochondrial-dpsim-phytochemical-screen`; was R5 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
+| 17 | Complete Lyapunov partition of a cancer ODE; a collocation defect is not a certified Conley set | **done / published** (`thesis-17-complete-lyapunov-cancer-ode`; published computational object) |
+| 18 | Bounded Adaptive Coherence: grounded-Laplacian λ_min; aging-like and cancer-like sectors on a toy tensor | **done / published** (`thesis-18-bounded-adaptive-coherence`; published computational object) |
 
 Each item below is a research-only problem. Not a trial protocol, not a
 device, not a dose, not a cure. No DOIs are implied.
@@ -32,11 +41,13 @@ device, not a dose, not a cure. No DOIs are implied.
 
 *Why it is not 01–03.* This is an identification / output-map problem on metabolomics-style channels, not a knowledge-graph adapter, not NSTG CaseCards, not a Disease Profile schema. An earlier incomplete draft still sits in `project-confluence` `docs/manuscript/structural_identifiability_ccle_manuscript.md` (catalog B04). That draft is not thesis 09, and its parameter fractions are not the ranks in the dedicated repo. **Not T07:** thesis 07 asks identifiability of a frozen 3-state TNBC ATP–ROS–glucose ODE under known phytochemical/nanocarrier forcings, not multi-channel metabolomics-style maps.
 
-## NP-02 — Spatial transport identifiability: when a lumped ODE cannot represent a desmoplastic delivery barrier
+## NP-02 — Spatial transport identifiability: when a lumped ODE cannot represent a desmoplastic delivery barrier — **DONE / PUBLISHED as T11**
+
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability (`dedicated-repo-published`). Nile B.Sc. chapters. Title on the landing README: *Spatial Transport Identifiability in Desmoplastic Tumours: When a Lumped Burden ODE Cannot Represent a Fibrotic Delivery Barrier*. Draws are a synthetic surrogate.
 
 **Problem statement.** For stroma-dominated carcinomas, which observables (interstitial pressure, collagen anisotropy, perfusion maps) are required before a 0-D burden ODE is even structurally capable of representing delivery failure, versus remaining an unidentified lumped sink?
 
-*Why it is not 01–03.* Thesis 03 *names* PDAC as a research object; thesis 02 *cards* it. This topic asks a spatial PDE / transport identifiability question the current 15-D CancerODE does not answer.
+*Why it is not 01–03.* Thesis 03 *names* PDAC as a research object; thesis 02 *cards* it. This topic asks a spatial transport identifiability question the current 15-D CancerODE does not answer.
 
 ## NP-03 — Occult residual disease as a hybrid switching system, not a hidden parameter — **DONE / PUBLISHED as T04**
 
@@ -46,9 +57,11 @@ device, not a dose, not a cure. No DOIs are implied.
 
 *Why it is not 01–03.* Dormancy appears as a seed CaseCard and a profiled disease-class; this paper is a hybrid-dynamical-systems method with falsifiable switching tests, not another research-object schema.
 
-## NP-04 — Stiff–sloppy spectra and systematic reduction of high-dimensional cancer-state ODEs
+## NP-04 — Stiff–sloppy spectra and systematic reduction of high-dimensional cancer-state ODEs — **DONE / PUBLISHED as T12**
 
-**Problem statement.** Which directions of the 15-D CONFLUENCE state-parameter space are sloppy under realistic observation maps, and can a documented MBAM / Fisher-geometry reduction preserve the gated claims of the full model without silently renaming leftover sloppy combinations as biology?
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-12-stiff-sloppy-cancer-ode-reduction (`dedicated-repo-published`). Nile B.Sc. chapters. The worked object is a toy cancer-state ODE under gated maps. Sloppy combinations are not renamed as biology. Trajectories are synthetic.
+
+**Problem statement.** Which directions of a high-dimensional cancer-state parameter space are sloppy under realistic observation maps, and can a documented MBAM / Fisher-geometry reduction preserve the gated claims of the full model without silently renaming leftover sloppy combinations as biology?
 
 *Why it is not 01–03.* Model-reduction diagnostics, not knowledge gates, not guideline constraints, not profile export.
 
@@ -68,13 +81,17 @@ device, not a dose, not a cure. No DOIs are implied.
 
 *Why it is not 01–03.* Control-policy identification. Existing `fly-brain-vs-tumor` and `malecns-immune-sight` repos are a **game** and a **visualization**; they are not this paper and not medical advice.
 
-## NP-07 — Gompertz hazard from coupled-subsystem failure (computational biogerontology object)
+## NP-07 — Gompertz hazard from coupled-subsystem failure (computational biogerontology object) — **DONE / PUBLISHED as T13**
+
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling (`dedicated-repo-published`). Nile B.Sc. chapters. Near-linear local damage under load×gain; which gains stay free is asked on a demographic-style schedule. The schedule is synthetic. This deposit does not claim rejuvenation or clinical age reversal.
 
 **Problem statement.** Under what network-coupling assumptions does near-linear local damage produce Gompertz-like hazard in a simulated subsystem graph, and which of those assumptions are identifiable from public demographic schedules versus remaining free gain parameters?
 
-*Why it is not 01–03.* Aging-network kinetics, not oncology knowledge graphs, not NSTG pathology cards, not Disease Profiles. Related proposal text exists (`project-confluence` `thesis_proposal.md`) but this hub **does not** carry forward age-reversal or clinically actionable claims; the paper, if written, stays an in-silico identifiability/kinetics study.
+*Why it is not 01–03.* Aging-network kinetics, not oncology knowledge graphs, not NSTG pathology cards, not Disease Profiles. Related proposal text exists (`project-confluence` `thesis_proposal.md`) but this hub **does not** carry forward age-reversal or clinically actionable claims. T13 is the in-silico identifiability study; the proposal is not that thesis.
 
-## NP-08 — Host-infection × residual-burden coupling as a delayed-risk constraint graph
+## NP-08 — Host-infection × residual-burden coupling as a delayed-risk constraint graph — **DONE / PUBLISHED as T14**
+
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-14-infection-residual-burden-delay-graph (`dedicated-repo-published`). Nile B.Sc. chapters. Host windows change hypothesis rank and stay outside Θ. The windows are declared, not a cohort.
 
 **Problem statement.** Can infection, marrow suppression, and residual-burden relapse risk be represented as a *qualitative delayed-risk graph* with explicit non-parameters, such that host-context constraints change hypothesis rank without becoming PK/PD coefficients or care pathways?
 
@@ -88,8 +105,10 @@ device, not a dose, not a cure. No DOIs are implied.
 - Another CaseCard seed pack without a new mathematical object (thesis 02).
 - A second schema for profiles (thesis 03 forbids a parallel contract).
 - Re-opening NP-01 (already thesis 09). Do not paste its ranks into this file.
+- Re-opening NP-02 (already thesis 11), NP-04 (already thesis 12), NP-07 (already thesis 13), or NP-08 (already thesis 14).
 - Re-opening NP-03 / NP-05 / NP-06 (already theses 04–06).
-- Re-opening R1 (already thesis 08) or R3 (already thesis 10).
+- Re-opening R1 (already thesis 08), R3 (already thesis 10), R4 (already thesis 15), or R5 (already thesis 16).
 - Re-opening R2 TNBC identifiability (already thesis 07).
+- Re-opening T17 (complete Lyapunov partition) or T18 (Bounded Adaptive Coherence). Both are published computational objects.
 - Promoting games, dashboards, or MCP tools to papers.
-- Any title whose success criterion is a clinical response, dose, or cure.
+- Any title whose success criterion is a clinical response, dose, rejuvenation, or cure.

@@ -1,6 +1,6 @@
 # Refined next theses (journal-path)
 
-Grounded in: B.Sc. *Carica papaya* AgNP antidiabetic thesis (2022); computational theses 01–10; attached roadmaps (TNBC phytochemical tipping-point ODE; compartmental nanobiocomposite; immunometabolic systems biology; in-silico mitochondrial reprogramming); and the non-recursive-axiom white paper (as **epistemic** framing only—not a clinical claim).
+Grounded in: B.Sc. *Carica papaya* AgNP antidiabetic thesis (2022); computational theses 01–18; attached roadmaps (TNBC phytochemical tipping-point ODE; compartmental nanobiocomposite; immunometabolic systems biology; in-silico mitochondrial reprogramming); and the non-recursive-axiom white paper (as **epistemic** framing only—not a clinical claim).
 
 Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (Problem → Justification → Aim/Objectives → Significance → Scope → Lit → Methods → Results → Discussion). Research honesty: in-silico / in-vitro architecture first; **not** CDS, dosing, or cure.
 
@@ -21,6 +21,14 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 | T8 | Papaya AgNP α-amylase assay as a named observation channel | Assay ≠ treatment parameter in Θ | **done / published** (`thesis-08-papaya-agnp-observation-channel`; was R1) |
 | T9 | Shared metabolic ODE under multi-channel noisy maps | Synthetic surrogate ≠ DepMap download; ranks stay in the repo | **done / published** (`thesis-09-ccle-metabolic-ode-identifiability`; was NP-01) |
 | T10 | Immunometabolic refuse-as-parameter | Lactate / checkpoint proxy / host bound ≠ Θ | **done / published** (`thesis-10-immunometabolic-refuse-as-parameter`; was R3) |
+| T11 | Desmoplastic transport vs a lumped burden ODE | Barrier coordinates are not a one-state sink | **done / published** (`thesis-11-desmoplastic-transport-identifiability`; was NP-02) |
+| T12 | Stiff–sloppy reduction under gated maps | Sloppy direction is not renamed biology | **done / published** (`thesis-12-stiff-sloppy-cancer-ode-reduction`; was NP-04) |
+| T13 | Load×gain Gompertz object | A demographic-style schedule leaves some gains free | **done / published** (`thesis-13-gompertz-load-gain-coupling`; was NP-07) |
+| T14 | Infection × residual-burden delay graph | Host window stays outside Θ | **done / published** (`thesis-14-infection-residual-burden-delay-graph`; was NP-08) |
+| T15 | AgNP–exosome–Raman multi-observation profile | Merged θ is refused | **done / published** (`thesis-15-nanobiocomposite-multiobservation-profile`; was R4) |
+| T16 | Mitochondrial ΔΨm / regulator screen under gates | Surrogate score is not Θ | **done / published** (`thesis-16-mitochondrial-dpsim-phytochemical-screen`; was R5) |
+| T17 | Complete Lyapunov partition of a cancer ODE | Collocation defect is not a certified Conley set | **published computational object** (`thesis-17-complete-lyapunov-cancer-ode`) |
+| T18 | Bounded Adaptive Coherence, grounded-Laplacian λ_min | Aging-like and cancer-like sectors on a toy tensor | **published computational object** (`thesis-18-bounded-adaptive-coherence`) |
 
 ---
 
@@ -71,29 +79,41 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 
 ---
 
-### R4 — Compartmental nanobiocomposite as a *multi-observation theranostic object* (Disease Profile extension)
-**Working title:** Encoding a compartmental AgNP–exosome–Raman theranostic concept as a Disease Profile / CaseCard research object with named observation channels.
+### R4 — Compartmental nanobiocomposite as a *multi-observation* object (Disease Profile extension) — **DONE / PUBLISHED as T15**
+**Published title:** Encoding a compartmental AgNP–exosome–Raman theranostic concept as a multi-observation Disease Profile research object.
 
-**Problem:** The nanobiocomposite proposal mixes PTT/ROS, exosome delivery, and Raman sensing in one platform narrative; without T3-style objects, those layers collapse into a single “nanotherapy works” claim.
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-15-nanobiocomposite-multiobservation-profile (`dedicated-repo-published`). Nile B.Sc. chapters. AgNP–exosome–Raman layers are separate observation channels. A merged θ is refused. Loadings are synthetic. The deposit does not re-tabulate Thesis 0 and does not repeat Thesis 08. Research object only.
+
+**Problem:** The nanobiocomposite proposal mixes photothermal/ROS, exosome delivery, and Raman sensing in one platform narrative; without T3-style objects, those layers collapse into a single undifferentiated claim.
 
 **Justification:** T0 (AgNP), T3 (profile objects), T2 (cards) already separate knowledge layers; the proposal’s compartmental design is naturally an object graph, not a single ODE forcing.
 
-**Significance:** Reframes nanotheranostics as *auditable research objects* (channels, refusals, falsifiers) suitable for a methods / nanomedicine theory journal—not a device claim.
+**Significance:** Reframes the concept as an auditable research object (channels, refusals, falsifiers) for a methods paper.
 
 **Depends on:** T0, T2, T3; nanobiocomposite proposal.
 
 ---
 
-### R5 — Mitochondrial ΔΨm / membrane-charge in-silico screening with frozen plant-ligand libraries
-**Working title:** In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates.
+### R5 — Mitochondrial ΔΨm / membrane-charge in-silico screening with frozen plant-ligand libraries — **DONE / PUBLISHED as T16**
+**Published title:** In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates.
 
-**Problem:** The mitochondrial-reprogramming DOCX prioritises simulation of ΔΨm and AMPK/PI3K/GLUT1 binding, but needs T1-style gates so docking scores never become identified kinetic parameters.
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen (`dedicated-repo-published`). Nile B.Sc. chapters. ΔΨm and AMPK–PI3K–GLUT1 scores are a frozen linear surrogate. Docking engines were not run, and the scores do not enter Θ. Distinct from T07 and T08.
 
-**Justification:** Connects T0 phytochemistry to the DOCX plan without jumping to “restores OXPHOS in patients.”
+**Problem:** The mitochondrial-reprogramming plan prioritises simulation of ΔΨm and AMPK/PI3K/GLUT1 binding, and needs T1-style gates so those scores never become identified kinetic parameters.
 
-**Significance:** A computational screening + honesty-protocol paper; wet-lab stays a *minimal confirmation path*, not the success criterion of the thesis.
+**Justification:** Connects T0 phytochemistry to that plan while keeping the screen inside claim–evidence gates.
 
-**Depends on:** T0, T1; mitochondrial DOCX.
+**Significance:** A computational screening paper whose success criterion is the gate, not a wet-lab confirmation.
+
+**Depends on:** T0, T1; mitochondrial plan.
+
+---
+
+### Published computational objects outside R1–R7
+
+**T17 — complete Lyapunov partition.** Dedicated repo: https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode (`dedicated-repo-published`). A complete Lyapunov construction partitions a planar cancer-state ODE into chain-recurrent and transient regions. The failing set is a collocation defect, not a certified Conley set. Nile B.Sc. chapters. Research only.
+
+**T18 — Bounded Adaptive Coherence.** Dedicated repo: https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence (`dedicated-repo-published`). The criterion is λ_min of the grounded Laplacian of a toy coupling tensor. Aging-like and cancer-like names are sectors of that tensor, not assays. Nile B.Sc. chapters. Research only. The neighbouring hazard question is T13.
 
 ---
 
@@ -115,16 +135,17 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 
 **Problem:** The TNBC roadmap’s aerospace section risks reading as dual clinical promise; refined, it is an **analogue stress protocol**: fixed hypoxia/ROS schedules that probe the same ATP–ROS ODE without claiming spaceflight countermeasures.
 
-**Justification:** Keeps Phase-6 ambition while satisfying honesty gates; useful for robustness chapters of R2.
+**Justification:** Keeps the aerospace schedule as an analogue stress on the same ATP–ROS ODE; useful as a robustness note on T07.
 
-**Depends on:** R2; TNBC roadmap §6.
+**Depends on:** T07 (published as the former R2); TNBC roadmap §6.
 
 ---
 
 ## What not to refine into a thesis yet
 - Clinical translation phases, mouse→human efficacy, or “open-source cure tool” language from roadmaps (keep as *future work*, not aims).
-- Equating papaya AgNP α-amylase inhibition with in-vivo glycaemic control. T08 does not do that.
-- Re-opening R1 (already thesis 08) or R3 (already thesis 10).
+- Equating papaya AgNP α-amylase inhibition with in-vivo glycaemic control. T08 does not do that. T15 does not re-tabulate Thesis 0.
+- Re-opening R1 (already thesis 08), R3 (already thesis 10), R4 (already thesis 15), or R5 (already thesis 16).
+- Treating T17's collocation defect as a certified Conley set, or T18's sector labels as assays.
 - Treating Emptiness/Love as biomedical therapeutics.
 - Promoting fly-brain games to medical controllers (already fenced in T6).
 - Copying thesis 09 ranks out of the landing repo into this note.
@@ -133,6 +154,8 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 1. **R2** — **done / published as T07**  
 2. **R1** — **done / published as T08**  
 3. **R3** — **done / published as T10**  
-4. **R4** then **R5** (nano + mito)  
-5. **R6** (short theory) / **R7** as a chapter of T07  
+4. **R4** — **done / published as T15**  
+5. **R5** — **done / published as T16**  
+6. **T17** (Lyapunov) and **T18** (Bounded Adaptive Coherence) — **published computational objects**  
+7. **R6** (short theory) / **R7** as a chapter of T07  
 

@@ -5,7 +5,7 @@ Author: **Kelechi Emeka Ogbonna** (`kelechiogbonna300@gmail.com`).
 Institutional email: pending. Snapshot date: **2026-09-21**.
 
 **Thesis 0** is a historical wet-lab B.Sc. (Nile University, 2022).
-Theses **01–10** are computational / in-silico research only. Thesis 0's
+Theses **01–18** are computational / in-silico research only. Thesis 0's
 assays are not their results. Thesis **08** may name the undergraduate
 α-amylase assay as an observation channel; it does not copy those tables
 into Θ as treatment. Not a medical device, not CDS, not a dose, not a
@@ -15,10 +15,10 @@ Do not invent identifiers.
 Theses 01–03 were reformatted (21 September 2026) to match the B.Sc.
 project chapter structure (Nile University style) for journal/thesis
 handoff. Hub copies of those three packages also live under
-[`publish/`](publish/README.md). Theses **04–10** are published on their
+[`publish/`](publish/README.md). Theses **04–18** are published on their
 dedicated remotes (`dedicated-repo-published`); each uses Nile B.Sc.
 Problem–Justification–Significance headings (04, 06) or the full Nile
-chapter skeleton (05, 07–10).
+chapter skeleton (05, 07–18).
 
 ## Flag legend (Problem–Justification–Significance)
 
@@ -41,13 +41,13 @@ P–J–S is a **cataloguing** check, not peer review.
 | `placeholder` | Notes, not a paper |
 | `proposal` | Research proposal; not a numbered thesis |
 | `software` | Code, notebooks, viz, game, or agent tooling |
-| `wet-lab-bsc` | Historical awarded B.Sc. project (separate study from 01–10) |
+| `wet-lab-bsc` | Historical awarded B.Sc. project (separate study from 01–18) |
 
-## Thesis 0 — wet-lab B.Sc. (not computational; not mixed into 01–10)
+## Thesis 0 — wet-lab B.Sc. (not computational; not mixed into 01–18)
 
 | ID | Title | Repo | Status | P | J | S | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–10. Scientific results must **not** be copied into 01–10. Thesis 08 may name the assay as an observation channel only. |
+| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–18. Scientific results must **not** be copied into 01–18. Thesis 08 may name the assay as an observation channel only. |
 
 ## Tier A — dedicated thesis landing repos
 
@@ -63,6 +63,14 @@ P–J–S is a **cataloguing** check, not peer review.
 | T08 | Green-synthesized silver nanoparticles from *Carica papaya* as an in-vitro metabolic observation channel: linking α-amylase inhibition to gated dynamical oncology objects | [thesis-08-papaya-agnp-observation-channel](https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Undergraduate AgNP–papaya α-amylase work is a named observation channel that stress-tests metabolic ODEs; the inhibition fraction does not enter Θ as treatment. Research only; not a medical device; no document DOI. Does not re-tabulate Thesis 0. Was REFINED_NEXT_THESES R1. |
 | T09 | Structural and Practical Identifiability of a Shared Metabolic Cancer ODE under Multi-Channel Noisy Observation Maps | [thesis-09-ccle-metabolic-ode-identifiability](https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Shared metabolic ODE under multi-channel metabolomics-style maps. Observation noise is a synthetic surrogate, not a CCLE or DepMap download. Rank and profile results stay in that repo; they are not copied here. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-01. B04 is an earlier incomplete draft, not the source of these ranks. |
 | T10 | Immunometabolic tumour-immune interaction ODEs under explicit non-parameters: lactate, checkpoint proxies, and host constraints that must not enter Θ | [thesis-10-immunometabolic-refuse-as-parameter](https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Lactate, checkpoint proxies, and host constraints are evidence objects that can change hypothesis rank without entering Θ. Research only; not a medical device; not a checkpoint dose; no document DOI. Was REFINED_NEXT_THESES R3. |
+| T11 | Spatial Transport Identifiability in Desmoplastic Tumours: When a Lumped Burden ODE Cannot Represent a Fibrotic Delivery Barrier | [thesis-11-desmoplastic-transport-identifiability](https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Asks when a lumped burden ODE is structurally unable to represent a desmoplastic delivery barrier: barrier coordinates enter a three-shell reduction only through conductances, and a one-state sink cannot carry a split between core concentration and a matched spatial mean. Draws are a synthetic surrogate. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-02. |
+| T12 | Stiff-sloppy spectra and systematic reduction of high-dimensional cancer-state ODEs under gated observation maps | [thesis-12-stiff-sloppy-cancer-ode-reduction](https://github.com/cloudynirvana/thesis-12-stiff-sloppy-cancer-ode-reduction) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Stiff–sloppy spectra and an MBAM-style reduction of a toy cancer-state ODE under gated maps. Leftover sloppy combinations stay sloppy; they are not relabelled as biology. Trajectories are synthetic. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-04. |
+| T13 | Gompertz-like hazard from load×gain coupling of damaged subsystems: a computational biogerontology object | [thesis-13-gompertz-load-gain-coupling](https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Near-linear local damage yields a Gompertz-like hazard under load×gain on a toy subsystem graph. The identifiability question is which gains stay free on a demographic-style schedule. Synthetic schedule, not a mortality-database download. No rejuvenation claim. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-07. |
+| T14 | Host-Infection × Residual-Burden Coupling as a Delayed-Risk Constraint Graph | [thesis-14-infection-residual-burden-delay-graph](https://github.com/cloudynirvana/thesis-14-infection-residual-burden-delay-graph) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Infection × residual-burden as a delayed-risk constraint graph. Host windows change hypothesis rank and stay outside Θ. Windows are declared, not a cohort. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-08. |
+| T15 | Encoding a compartmental AgNP–exosome–Raman theranostic concept as a multi-observation Disease Profile research object | [thesis-15-nanobiocomposite-multiobservation-profile](https://github.com/cloudynirvana/thesis-15-nanobiocomposite-multiobservation-profile) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. AgNP–exosome–Raman layers are separate observation channels on a Disease Profile. A file that writes them into one θ is refused. Loadings are synthetic. Does not re-tabulate Thesis 0 and does not repeat Thesis 08. Research only; not a medical device; no document DOI. Was REFINED_NEXT_THESES R4. |
+| T16 | In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates | [thesis-16-mitochondrial-dpsim-phytochemical-screen](https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Mitochondrial ΔΨm and AMPK–PI3K–GLUT1 screen under claim–evidence gates. Scores come from a frozen linear surrogate; docking engines were not run, and the scores do not enter Θ. Distinct from T07 (known forcings) and T08 (assay as an observation channel). Research only; not a medical device; no document DOI. Was REFINED_NEXT_THESES R5. |
+| T17 | Complete Lyapunov Functions and Chain-Recurrent Partitions for a Cancer-State Ordinary Differential Equation | [thesis-17-complete-lyapunov-cancer-ode](https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Complete Lyapunov partition of a planar cancer-state ODE into chain-recurrent and transient regions. The failing set is a collocation defect, not a certified Conley set. Published computational object. Research only; not a medical device; no document DOI. |
+| T18 | Bounded Adaptive Coherence: a coupling-tensor λ_min criterion as a computational object for aging-versus-cancer failure modes | [thesis-18-bounded-adaptive-coherence](https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Bounded Adaptive Coherence as the λ_min of a grounded Laplacian on one 5×5 toy tensor. Aging-like and cancer-like names are sectors of that tensor, not assays. Published computational object. The neighbouring hazard question is T13. Research only; not a medical device; no document DOI. |
 
 ## Tier B — `project-confluence` `docs/manuscript/` drafts
 
@@ -80,7 +88,7 @@ Thesis 02 is **not** in this folder; it is catalogued under T02 and C-CS.
 
 | ID | Title | Repo / path | Status | P | J | S | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| P01 | Systems Biogerontology of Complex Disease Systems and Age Reversal: A Hierarchical Framework of Network Robustness and Systemic Gain | [thesis_proposal.md](https://github.com/cloudynirvana/project-confluence/blob/main/thesis_proposal.md) | `proposal` | P | P | N | Proposal only. Hub does **not** adopt translational age-reversal / clinically actionable claims. Computational Gompertz-from-coupling is restated as NP-07 in [NEXT_PAPERS.md](NEXT_PAPERS.md). |
+| P01 | Systems Biogerontology of Complex Disease Systems and Age Reversal: A Hierarchical Framework of Network Robustness and Systemic Gain | [thesis_proposal.md](https://github.com/cloudynirvana/project-confluence/blob/main/thesis_proposal.md) | `proposal` | P | P | N | Proposal only. Hub does **not** adopt translational age-reversal / clinically actionable claims. The computational Gompertz-from-coupling object is published as T13 (was NP-07 in [NEXT_PAPERS.md](NEXT_PAPERS.md)). This proposal is not that thesis. |
 
 ## Tier C — related software
 
@@ -113,3 +121,11 @@ Thesis 02 is **not** in this folder; it is catalogued under T02 and C-CS.
 | Thesis 08 dedicated landing | https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel |
 | Thesis 09 dedicated landing | https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability |
 | Thesis 10 dedicated landing | https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter |
+| Thesis 11 dedicated landing | https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability |
+| Thesis 12 dedicated landing | https://github.com/cloudynirvana/thesis-12-stiff-sloppy-cancer-ode-reduction |
+| Thesis 13 dedicated landing | https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling |
+| Thesis 14 dedicated landing | https://github.com/cloudynirvana/thesis-14-infection-residual-burden-delay-graph |
+| Thesis 15 dedicated landing | https://github.com/cloudynirvana/thesis-15-nanobiocomposite-multiobservation-profile |
+| Thesis 16 dedicated landing | https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen |
+| Thesis 17 dedicated landing | https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode |
+| Thesis 18 dedicated landing | https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence |
