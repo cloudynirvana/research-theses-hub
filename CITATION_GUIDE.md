@@ -17,7 +17,7 @@ not CDS, not a dose, and not a cure.
 | Work | Cite |
 | --- | --- |
 | This hub (the map) | This repository + [CITATION.cff](CITATION.cff) |
-| Thesis 0 (wet-lab B.Sc.) | https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp — **separate study**; do not cite as computational theses 01–10 |
+| Thesis 0 (wet-lab B.Sc.) | https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp — **separate study**; do not cite as computational theses 01–18 |
 | Thesis 01 | Landing repo https://github.com/cloudynirvana/thesis-01-confluence-onco **and** hub package [`publish/thesis-01-confluence-onco/`](publish/thesis-01-confluence-onco/) **and** canonical manuscript https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_01_confluence_onco.md |
 | Thesis 02 | Landing repo https://github.com/cloudynirvana/thesis-02-complexity-nstg **and** hub package [`publish/thesis-02-complexity-nstg/`](publish/thesis-02-complexity-nstg/) **and** canonical manuscript https://github.com/cloudynirvana/complexity-science/blob/main/docs/manuscript/thesis_02_complexity_nstg_pathology.md |
 | Thesis 03 | Landing repo https://github.com/cloudynirvana/thesis-03-disease-profile **and** hub package [`publish/thesis-03-disease-profile/`](publish/thesis-03-disease-profile/) **and** canonical manuscript https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.md |
@@ -28,15 +28,24 @@ not CDS, not a dose, and not a cure.
 | Thesis 08 | Landing repo https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel |
 | Thesis 09 | Landing repo https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability |
 | Thesis 10 | Landing repo https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter |
+| Thesis 11 | Landing repo https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability |
+| Thesis 12 | Landing repo https://github.com/cloudynirvana/thesis-12-stiff-sloppy-cancer-ode-reduction |
+| Thesis 13 | Landing repo https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling |
+| Thesis 14 | Landing repo https://github.com/cloudynirvana/thesis-14-infection-residual-burden-delay-graph |
+| Thesis 15 | Landing repo https://github.com/cloudynirvana/thesis-15-nanobiocomposite-multiobservation-profile |
+| Thesis 16 | Landing repo https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen |
+| Thesis 17 | Landing repo https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode |
+| Thesis 18 | Landing repo https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence |
 | Software | The software repository’s own `CITATION.cff` or README citation block, **as software** |
 
 Landing repos hold working manuscripts. Chapter-format copies (Nile
 University B.Sc. skeleton) for theses 01–03 are on this hub under
-`publish/`. Theses 04–10 are cited from their dedicated remotes
+`publish/`. Theses 04–18 are cited from their dedicated remotes
 (`THESIS.md` / `THESIS.pdf`). Thesis 0 is a separate wet-lab B.Sc.;
-do not cite it as 01–10. Thesis 08 names the undergraduate assay as an
+do not cite it as 01–18. Thesis 08 names the undergraduate assay as an
 observation channel; cite it as that computational manuscript, not as
-a second copy of Thesis 0.
+a second copy of Thesis 0. Thesis 15 is a multi-observation profile,
+not a second copy of Thesis 0 or Thesis 08.
 
 ## Suggested GitHub citations (Vancouver-like)
 
@@ -44,7 +53,7 @@ Software / electronic references. Access date is the date **you**
 retrieved the files.
 
 1. Ogbonna KE. Research theses hub. GitHub. 2026. Available from: https://github.com/cloudynirvana/research-theses-hub
-2. Ogbonna KE. In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of Carica papaya. B.Sc. Biotechnology project. Abuja: Nile University of Nigeria; 2022. Available from: https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp (Thesis 0; wet-lab; not theses 01–10)
+2. Ogbonna KE. In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of Carica papaya. B.Sc. Biotechnology project. Abuja: Nile University of Nigeria; 2022. Available from: https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp (Thesis 0; wet-lab; not theses 01–18)
 3. Ogbonna KE. CONFLUENCE × OnCo: an evidence-gated dynamical framework for integrating oncology knowledge graphs with adaptive cancer-state models. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-01-confluence-onco
 4. Ogbonna KE. Complexity science and NSTG-guided in-silico pathology dynamics for biologics pathway exploration. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-02-complexity-nstg
 5. Ogbonna KE. Disease profiles for complex pathologies: a gated method for systemic personalized-medicine research objects. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-03-disease-profile
@@ -55,6 +64,14 @@ retrieved the files.
 10. Ogbonna KE. Green-synthesized silver nanoparticles from Carica papaya as an in-vitro metabolic observation channel: linking α-amylase inhibition to gated dynamical oncology objects. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel
 11. Ogbonna KE. Structural and practical identifiability of a shared metabolic cancer ODE under multi-channel noisy observation maps. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability
 12. Ogbonna KE. Immunometabolic tumour-immune interaction ODEs under explicit non-parameters: lactate, checkpoint proxies, and host constraints that must not enter Θ. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter
+13. Ogbonna KE. Spatial transport identifiability in desmoplastic tumours: when a lumped burden ODE cannot represent a fibrotic delivery barrier. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-11-desmoplastic-transport-identifiability
+14. Ogbonna KE. Stiff-sloppy spectra and systematic reduction of high-dimensional cancer-state ODEs under gated observation maps. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-12-stiff-sloppy-cancer-ode-reduction
+15. Ogbonna KE. Gompertz-like hazard from load×gain coupling of damaged subsystems: a computational biogerontology object. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-13-gompertz-load-gain-coupling
+16. Ogbonna KE. Host-infection × residual-burden coupling as a delayed-risk constraint graph. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-14-infection-residual-burden-delay-graph
+17. Ogbonna KE. Encoding a compartmental AgNP–exosome–Raman theranostic concept as a multi-observation Disease Profile research object. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-15-nanobiocomposite-multiobservation-profile
+18. Ogbonna KE. In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen
+19. Ogbonna KE. Complete Lyapunov functions and chain-recurrent partitions for a cancer-state ordinary differential equation. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode
+20. Ogbonna KE. Bounded adaptive coherence: a coupling-tensor λ_min criterion as a computational object for aging-versus-cancer failure modes. Computational research thesis manuscript. 2026 Sep. Available from: https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence
 
 BibTeX for this hub:
 
@@ -72,7 +89,7 @@ BibTeX for this hub:
 ## Identifiers this hub does **not** have
 
 - **No document DOI** for this hub.
-- **No document DOI** for theses 01–10 in this catalog.
+- **No document DOI** for theses 01–18 in this catalog.
 - **No arXiv id, PMID, or journal acceptance** recorded here.
 - **Do not invent DOIs.** If a publisher, Crossref, Zenodo, or preprint
   server later issues an identifier for a **specific object**, cite that
@@ -111,7 +128,7 @@ Do this as the account owner. This hub cannot mint Scholar entries.
 | --- | --- |
 | `project-confluence` code | Software citation for that repo |
 | Thesis 01/03 Markdown/PDF | Manuscript citation (GitHub path or landing repo) |
-| Thesis 04–10 Markdown/PDF | Manuscript citation (dedicated landing repo) |
+| Thesis 04–18 Markdown/PDF | Manuscript citation (dedicated landing repo) |
 | `complexity-science` pipeline | Software citation |
 | Thesis 02 Markdown/PDF | Manuscript citation |
 | Games / dashboards / MCP | Software or “research visualization / game” — never as a thesis |

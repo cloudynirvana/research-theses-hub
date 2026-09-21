@@ -1,10 +1,15 @@
 # Disclaimer
 
-**Thesis 0** ([thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp)) is a historical wet-lab B.Sc. project (Nile University, 2022). It is indexed here as a separate study and as the **chapter-format** source for computational theses 01–10. Its in vitro AgNP / α-amylase results are **not** findings of theses 01–10. Thesis 08 may name that assay as an observation channel; it does not re-tabulate Thesis 0 and does not enter the assay into Θ as treatment.
+**Thesis 0** ([thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp)) is a historical wet-lab B.Sc. project (Nile University, 2022). It is indexed here as a separate study and as the **chapter-format** source for computational theses 01–18. Its in vitro AgNP / α-amylase results are **not** findings of theses 01–18. Thesis 08 may name that assay as an observation channel; it does not re-tabulate Thesis 0 and does not enter the assay into Θ as treatment. Thesis 15 does not re-tabulate Thesis 0 either.
 
-This hub and the computational works it indexes (theses 01–10) are **computational / in-silico
+This hub and the computational works it indexes (theses 01–18) are **computational / in-silico
 research**. They are intended for scientific scrutiny, methods discussion,
-and software reuse under each repository’s licence.
+and software reuse under each repository’s licence. Theses 11–18 are the
+same class of object: a transport-identifiability question, a stiff–sloppy
+reduction, a computational Gompertz hazard, a delayed-risk graph, a
+multi-observation profile, a gated phytochemical screen, a Lyapunov
+partition, and a toy coherence criterion. Surrogate scores, sector labels,
+and collocation defects stay inside those manuscripts.
 
 ## This is research only
 
