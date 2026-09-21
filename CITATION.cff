@@ -13,13 +13,16 @@ license: MIT
 date-released: "2026-09-21"
 abstract: >-
   Catalog of thesis-worthy computational research by Kelechi Emeka
-  Ogbonna: dedicated landing repos for theses 01–03 (CONFLUENCE × OnCo;
-  Complexity Science / NSTG-guided in-silico pathology; Disease Profile
-  method), working drafts in project-confluence manuscripts, and related
-  software with honest labels. Research / in-silico only. Not a medical
-  device, not clinical decision support, not a dose, and not a cure.
-  Institutional email pending. Google Scholar and ResearchGate indexing
-  are manual later steps.
+  Ogbonna: dedicated landing repos for theses 00–07 (wet-lab B.Sc. papaya
+  AgNP; CONFLUENCE × OnCo; Complexity Science / NSTG-guided in-silico
+  pathology; Disease Profile method; occult hybrid switching; metastasis
+  on anatomical graphs; sparse connectome-style controllers; TNBC
+  ATP–ROS–glucose identifiability), working drafts in project-confluence
+  manuscripts, and related software with honest labels. Research /
+  in-silico only for 01–07. Not a medical device, not clinical decision
+  support, not a dose, and not a cure. No document DOI. Institutional
+  email pending. Google Scholar and ResearchGate indexing are manual
+  later steps.
 keywords:
   - computational oncology
   - in-silico research
