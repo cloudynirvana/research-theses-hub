@@ -4,8 +4,9 @@ Index of thesis-worthy works by **Kelechi Emeka Ogbonna**.
 
 **Thesis 0** is the awarded wet-lab B.Sc. (Nile University of Nigeria,
 July 2022; *Carica papaya* leaf-extract AgNPs, in vitro antidiabetic).
-Theses **01–18** are **computational / in-silico** manuscripts only.
-They share the B.Sc. **chapter format** (full Nile skeleton or
+This hub indexes theses **T00–T34**. Theses **01–34** are
+**computational / in-silico** manuscripts only. They share the B.Sc.
+**chapter format** (full Nile skeleton or
 Problem–Justification–Significance headings); they do **not** share its
 biology, assays, or claims. Thesis **08** may name the undergraduate
 α-amylase assay as an observation channel. It does not re-tabulate
@@ -16,7 +17,7 @@ Correspondence: `kelechiogbonna300@gmail.com` · GitHub
 Institutional email: **pending**.
 
 This hub is a map, not a journal. Cross-links between Thesis 0 and
-theses 01–18 belong **only here** (and in READMEs), never as if they
+theses 01–34 belong **only here** (and in READMEs), never as if they
 were one study. Cite GitHub now
 ([CITATION_GUIDE.md](CITATION_GUIDE.md)). Google Scholar and ResearchGate
 handoff is **manual and later**. No document DOI is registered here.
@@ -30,6 +31,7 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | [CATALOG.md](CATALOG.md) | Titles, repos, status, Problem–Justification–Significance flags |
 | [CITATION_GUIDE.md](CITATION_GUIDE.md) | How to cite from GitHub |
 | [NEXT_PAPERS.md](NEXT_PAPERS.md) | Problem topics, all published (NP-01→T09; NP-02→T11; NP-03→T04; NP-04→T12; NP-05→T05; NP-06→T06; NP-07→T13; NP-08→T14) |
+| [VALIDATION_NEXT.md](VALIDATION_NEXT.md) | Planned validation theses T35–T37, T41–T42 (no new repos until hub merge); T38–T40, T43 held |
 | [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md) | Journal-path refinements (R1→T08; R2→T07; R3→T10; R4→T15; R5→T16). T17 and T18 are published computational objects outside that list. |
 | [CITATION.cff](CITATION.cff) | Machine-readable citation for this hub |
 
@@ -40,7 +42,7 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | Tier | What it is | What it is not |
 | --- | --- | --- |
 | **0** | Wet-lab B.Sc. project (Nile University, 2022) | A computational result, a CONFLUENCE finding, or a CDS claim |
-| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–18 use Nile B.Sc. chapter format) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
+| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–34 use Nile B.Sc. chapter format) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
 | **B** | Working drafts already in `project-confluence` `docs/manuscript/` | Submitted papers unless a later record says so |
 | **C** | Related software, notebooks, visualizations, and games | Theses. Labels below are honest about genre |
 
@@ -56,13 +58,13 @@ Knowledge ≠ Evidence ≠ Mechanism ≠ Parameter ≠ Prediction
 
 | # | Title | Landing repo | Honest label |
 | --- | --- | --- | --- |
-| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–18. Thesis 08 may name the assay as an observation channel only. |
+| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–34. Thesis 08 may name the assay as an observation channel only. |
 
-Chapter skeleton used as the **format** for 01–18: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references. Theses 04 and 06 publish Nile P–J–S headings in a shorter working-manuscript layout; 01–03, 05, and 07–18 use the full chapter skeleton.
+Chapter skeleton used as the **format** for 01–34: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references. Theses 04 and 06 publish Nile P–J–S headings in a shorter working-manuscript layout; 01–03, 05, and 07–34 use the full chapter skeleton.
 
 ## Tier A — dedicated computational thesis repos (reformatted)
 
-Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF packages. Theses **01–18** use Nile University B.Sc. chapter format (full skeleton or P–J–S headings) for journal/thesis handoff. Hub `publish/` copies remain for 01–03. Theses **04–18** are published on their dedicated remotes. Working software manuscripts for 01–03 still live in the source monorepos (Tier B and `complexity-science`). Point citations at the landing repo (and, for 01–03, the canonical manuscript path plus the hub `publish/` copy).
+Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF packages. Theses **01–34** use Nile University B.Sc. chapter format (full skeleton or P–J–S headings) for journal/thesis handoff. Hub `publish/` copies remain for 01–03. Theses **04–34** are published on their dedicated remotes. Working software manuscripts for 01–03 still live in the source monorepos (Tier B and `complexity-science`). Point citations at the landing repo (and, for 01–03, the canonical manuscript path plus the hub `publish/` copy). Orphan scaffolds that briefly held numbers 19–26 are `DEPRECATED` in [CATALOG.md](CATALOG.md); do not continue them.
 
 | # | Title | Landing repo | Canonical manuscript today |
 | --- | --- | --- | --- |
@@ -84,6 +86,22 @@ Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF pa
 | **16** | In-silico prioritisation of phytochemical effects on mitochondrial membrane potential and metabolic-regulator binding under claim–evidence gates | [thesis-16-mitochondrial-dpsim-phytochemical-screen](https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen/blob/main/THESIS.md) on the landing repo |
 | **17** | Complete Lyapunov Functions and Chain-Recurrent Partitions for a Cancer-State Ordinary Differential Equation | [thesis-17-complete-lyapunov-cancer-ode](https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode/blob/main/THESIS.md) on the landing repo |
 | **18** | Bounded Adaptive Coherence: a coupling-tensor λ_min criterion as a computational object for aging-versus-cancer failure modes | [thesis-18-bounded-adaptive-coherence](https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence/blob/main/THESIS.md) on the landing repo |
+| **19** | Forcing admission under evidence gates: which phytochemical screen scores may enter a tip ODE as known forcings? | [thesis-19-forcing-admission-gates-tip-ode](https://github.com/cloudynirvana/thesis-19-forcing-admission-gates-tip-ode) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-19-forcing-admission-gates-tip-ode/blob/main/THESIS.md) on the landing repo |
+| **20** | Hybrid occult mode switches under sparse delayed liquid-biopsy-style partial observers | [thesis-20-occult-modes-partial-liquid-biopsy-observer](https://github.com/cloudynirvana/thesis-20-occult-modes-partial-liquid-biopsy-observer) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-20-occult-modes-partial-liquid-biopsy-observer/blob/main/THESIS.md) on the landing repo |
+| **21** | Anatomical metastasis graphs with edge-wise desmoplastic conductances: lumped burden and edge-rate identifiability | [thesis-21-metastasis-graph-barrier-conductances](https://github.com/cloudynirvana/thesis-21-metastasis-graph-barrier-conductances) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-21-metastasis-graph-barrier-conductances/blob/main/THESIS.md) on the landing repo |
+| **22** | Composing named observation channels into a Disease Profile without illegal merge into Θ | [thesis-22-observation-channel-profile-composition](https://github.com/cloudynirvana/thesis-22-observation-channel-profile-composition) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-22-observation-channel-profile-composition/blob/main/THESIS.md) on the landing repo |
+| **23** | Host infection windows that re-rank immunometabolic hypothesis structures without entering Θ | [thesis-23-host-ranked-immunometabolic-hypotheses](https://github.com/cloudynirvana/thesis-23-host-ranked-immunometabolic-hypotheses) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-23-host-ranked-immunometabolic-hypotheses/blob/main/THESIS.md) on the landing repo |
+| **24** | Reduction-preserving multi-channel identifiability: which Fisher ranks survive a stiff–sloppy reduction? | [thesis-24-reduction-preserving-multichannel-id](https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id/blob/main/THESIS.md) on the landing repo |
+| **25** | Aging-like BAC sectors and load×gain Gompertz regimes on one shared subsystem toy | [thesis-25-bac-sectors-vs-gompertz-gain](https://github.com/cloudynirvana/thesis-25-bac-sectors-vs-gompertz-gain) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-25-bac-sectors-vs-gompertz-gain/blob/main/THESIS.md) on the landing repo |
+| **26** | Hybrid occult mode switches versus chain-recurrent components on a joint hybrid–smooth field | [thesis-26-chain-recurrent-vs-hybrid-occult](https://github.com/cloudynirvana/thesis-26-chain-recurrent-vs-hybrid-occult) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-26-chain-recurrent-vs-hybrid-occult/blob/main/THESIS.md) on the landing repo |
+| **27** | Sparse connectome controllers under a sparse delayed liquid-biopsy-style observer | [thesis-27-sparse-controllers-partial-lb-observer](https://github.com/cloudynirvana/thesis-27-sparse-controllers-partial-lb-observer) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-27-sparse-controllers-partial-lb-observer/blob/main/THESIS.md) on the landing repo |
+| **28** | Admitted known forcings that remain distinguishable after a stiff–sloppy reduction | [thesis-28-admitted-forcings-after-reduction](https://github.com/cloudynirvana/thesis-28-admitted-forcings-after-reduction) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-28-admitted-forcings-after-reduction/blob/main/THESIS.md) on the landing repo |
+| **29** | Host infection windows that re-rank channel–profile composition without merging into Θ | [thesis-29-host-windows-channel-profile-composition](https://github.com/cloudynirvana/thesis-29-host-windows-channel-profile-composition) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-29-host-windows-channel-profile-composition/blob/main/THESIS.md) on the landing repo |
+| **30** | Occult hybrid mode switches and barrier-augmented metastatic edge-rate identifiability | [thesis-30-occult-modes-barrier-edge-rates](https://github.com/cloudynirvana/thesis-30-occult-modes-barrier-edge-rates) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-30-occult-modes-barrier-edge-rates/blob/main/THESIS.md) on the landing repo |
+| **31** | NSTG CaseCards as predicates for tip-ODE forcing admission without guideline-to-Θ leakage | [thesis-31-casecards-forcing-admission-predicates](https://github.com/cloudynirvana/thesis-31-casecards-forcing-admission-predicates) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-31-casecards-forcing-admission-predicates/blob/main/THESIS.md) on the landing repo |
+| **32** | Aging-like BAC sectors when coupling travels through barrier-limited desmoplastic edges | [thesis-32-bac-sectors-under-barrier-transport](https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport/blob/main/THESIS.md) on the landing repo |
+| **33** | Chain-recurrent labels recoverable from multi-channel ranks that survive stiff–sloppy reduction | [thesis-33-chain-recurrent-under-surviving-ranks](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks/blob/main/THESIS.md) on the landing repo |
+| **34** | Named AgNP observation-channel scores as forcing provenance under evidence gates | [thesis-34-agnp-channel-forcing-provenance](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance/blob/main/THESIS.md) on the landing repo |
 
 | Thesis | One-line problem (research-scoped) |
 | --- | --- |
@@ -106,6 +124,22 @@ Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF pa
 | 16 | Mitochondrial ΔΨm / AMPK–PI3K–GLUT1 phytochemical screen under gates; surrogate scores are not Θ. |
 | 17 | Complete Lyapunov partition of a cancer ODE into chain-recurrent and transient regions; a collocation defect is not a certified Conley set. |
 | 18 | Bounded Adaptive Coherence: grounded-Laplacian λ_min on a toy tensor, with aging-like and cancer-like sectors. |
+| 19 | Which gated phytochemical scores may be admitted as known tip-ODE forcings without gate bypass or soft-prior leakage? (T01×T07×T16) |
+| 20 | Which hybrid occult mode switches stay identifiable under a sparse delayed liquid-biopsy-style observer? (T04×T09) |
+| 21 | Do metastasis edge rates stay unidentified under lumped burden when edges carry desmoplastic conductances? (T05×T11) |
+| 22 | When do named observation channels compose into a Disease Profile without illegal merge into θ? (T03×T08×T15) |
+| 23 | Can host infection windows re-rank immunometabolic hypotheses while staying outside Θ? (T10×T14) |
+| 24 | After stiff–sloppy/MBAM reduction, which multi-channel ranks still hold? (T09×T12) |
+| 25 | Do aging-like BAC sectors coincide with load×gain Gompertz regimes on one shared toy? (T13×T18) |
+| 26 | Do hybrid mode switches align with chain-recurrent components? (T04×T17) |
+| 27 | Can sparse connectome controllers still meet steering bounds under T20’s sparse delayed observer? (T06×T20) |
+| 28 | After reduction, which admitted known forcings stay distinguishable from soft-prior leakage? (T19×T24) |
+| 29 | Can host windows change which channel compositions stay legal Profiles without merging into Θ? (T22×T23) |
+| 30 | With occult switches and barrier conductances, which edge rates stay identifiable from mode-partial maps? (T20×T21) |
+| 31 | Can NSTG CaseCards encode admission predicates so guideline text cannot become a coefficient? (T02×T19) |
+| 32 | Do aging-like BAC sectors survive when coupling only travels through barrier-limited edges? (T25×T21) |
+| 33 | Which chain-recurrent labels remain recoverable from multi-channel ranks that survive reduction? (T26×T24) |
+| 34 | Which AgNP channel scores may be admitted only as tip-ODE forcing provenance under the gates? (T08×T19) |
 
 Public HTML/PDF surfaces (source repos; not journal records; no thesis DOI):
 
@@ -128,6 +162,22 @@ Public HTML/PDF surfaces (source repos; not journal records; no thesis DOI):
 - Thesis 16 PDF: [`thesis-16-mitochondrial-dpsim-phytochemical-screen` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-16-mitochondrial-dpsim-phytochemical-screen/blob/main/THESIS.pdf)
 - Thesis 17 PDF: [`thesis-17-complete-lyapunov-cancer-ode` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-17-complete-lyapunov-cancer-ode/blob/main/THESIS.pdf)
 - Thesis 18 PDF: [`thesis-18-bounded-adaptive-coherence` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-18-bounded-adaptive-coherence/blob/main/THESIS.pdf)
+- Thesis 19 PDF: [`thesis-19-forcing-admission-gates-tip-ode` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-19-forcing-admission-gates-tip-ode/blob/main/THESIS.pdf)
+- Thesis 20 PDF: [`thesis-20-occult-modes-partial-liquid-biopsy-observer` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-20-occult-modes-partial-liquid-biopsy-observer/blob/main/THESIS.pdf)
+- Thesis 21 PDF: [`thesis-21-metastasis-graph-barrier-conductances` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-21-metastasis-graph-barrier-conductances/blob/main/THESIS.pdf)
+- Thesis 22 PDF: [`thesis-22-observation-channel-profile-composition` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-22-observation-channel-profile-composition/blob/main/THESIS.pdf)
+- Thesis 23 PDF: [`thesis-23-host-ranked-immunometabolic-hypotheses` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-23-host-ranked-immunometabolic-hypotheses/blob/main/THESIS.pdf)
+- Thesis 24 PDF: [`thesis-24-reduction-preserving-multichannel-id` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-24-reduction-preserving-multichannel-id/blob/main/THESIS.pdf)
+- Thesis 25 PDF: [`thesis-25-bac-sectors-vs-gompertz-gain` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-25-bac-sectors-vs-gompertz-gain/blob/main/THESIS.pdf)
+- Thesis 26 PDF: [`thesis-26-chain-recurrent-vs-hybrid-occult` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-26-chain-recurrent-vs-hybrid-occult/blob/main/THESIS.pdf)
+- Thesis 27 PDF: [`thesis-27-sparse-controllers-partial-lb-observer` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-27-sparse-controllers-partial-lb-observer/blob/main/THESIS.pdf)
+- Thesis 28 PDF: [`thesis-28-admitted-forcings-after-reduction` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-28-admitted-forcings-after-reduction/blob/main/THESIS.pdf)
+- Thesis 29 PDF: [`thesis-29-host-windows-channel-profile-composition` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-29-host-windows-channel-profile-composition/blob/main/THESIS.pdf)
+- Thesis 30 PDF: [`thesis-30-occult-modes-barrier-edge-rates` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-30-occult-modes-barrier-edge-rates/blob/main/THESIS.pdf)
+- Thesis 31 PDF: [`thesis-31-casecards-forcing-admission-predicates` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-31-casecards-forcing-admission-predicates/blob/main/THESIS.pdf)
+- Thesis 32 PDF: [`thesis-32-bac-sectors-under-barrier-transport` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport/blob/main/THESIS.pdf)
+- Thesis 33 PDF: [`thesis-33-chain-recurrent-under-surviving-ranks` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks/blob/main/THESIS.pdf)
+- Thesis 34 PDF: [`thesis-34-agnp-channel-forcing-provenance` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance/blob/main/THESIS.pdf)
 
 ---
 
@@ -174,13 +224,15 @@ Unrelated public repos (`simplifyr`, `routeoptima`, profile/license placeholders
 
 ## What this hub refuses
 
-- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–18 as if they were the same study. Thesis 08 names the assay as an observation channel; it does not re-tabulate Thesis 0 and it is not a therapy claim. Thesis 15 does not re-tabulate Thesis 0 either.
+- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–34 as if they were the same study. Thesis 08 names the assay as an observation channel; it does not re-tabulate Thesis 0 and it is not a therapy claim. Thesis 15 and Thesis 34 do not re-tabulate Thesis 0 either.
 - Clinical claims, dosing, CDS, diagnosis, or cure language on the computational theses.
 - Invented DOIs, ORCIDs, or journal acceptances.
 - Treating OnCo pages, NSTG chapters, dashboard scores, lactate, checkpoint proxies, host constraints, host windows, or surrogate screen scores as identified Θ.
 - Calling a game, visualization, or MCP server a paper.
 - Reading T06 as fly-neuron therapy, T07 phytochemical/nanocarrier symbols as efficacy, or T10 as checkpoint dosing.
 - Reading T13 as rejuvenation, T16 surrogate scores as a docking run, T17's collocation defect as a certified Conley set, or T18 sector labels as assays.
+- Continuing DEPRECATED orphan scaffolds formerly labelled thesis-19…thesis-26; see [CATALOG.md](CATALOG.md).
+- Opening planned validation repos (T35–T37, T41–T42) before the hub merge that indexes T19–T34; see [VALIDATION_NEXT.md](VALIDATION_NEXT.md).
 - Copying thesis 09 rank tables into this hub. Those results stay in the landing repo. The observation noise there is a synthetic surrogate, not a CCLE or DepMap download.
 
-NP-01 through NP-08 are published (T09, T11, T04, T12, T05, T06, T13, T14): [NEXT_PAPERS.md](NEXT_PAPERS.md). R1–R5 are published (T08, T07, T10, T15, T16). T17 (Lyapunov) and T18 (Bounded Adaptive Coherence) are published computational objects: [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md).
+NP-01 through NP-08 are published (T09, T11, T04, T12, T05, T06, T13, T14): [NEXT_PAPERS.md](NEXT_PAPERS.md). R1–R5 are published (T08, T07, T10, T15, T16). T17 (Lyapunov) and T18 (Bounded Adaptive Coherence) are published computational objects: [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md). Composition / validation wave T19–T34 is indexed here; planned follow-ons are in [VALIDATION_NEXT.md](VALIDATION_NEXT.md).
