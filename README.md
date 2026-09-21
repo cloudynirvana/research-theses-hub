@@ -42,7 +42,7 @@ Knowledge ≠ Evidence ≠ Mechanism ≠ Parameter ≠ Prediction
 
 ## Tier A — dedicated thesis repos
 
-Landing repos exist. As of 21 September 2026 they are **stubs**. The
+Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF packages (Problem / Justification / Significance included). The
 working manuscripts still live in the source monorepos (Tier B and
 `complexity-science`). Point citations at the landing repo **and** the
 canonical manuscript path until the landing repos hold the full text.

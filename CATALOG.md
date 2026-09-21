@@ -22,7 +22,7 @@ P–J–S is a **cataloguing** check, not peer review.
 
 | Status | Meaning |
 | --- | --- |
-| `dedicated-repo-stub` | Landing repo exists; README only; full text not copied in yet |
+| `dedicated-repo-published` | Dedicated repo has THESIS.md, THESIS.pdf, CITATION.cff, DISCLAIMER |
 | `working-manuscript` | Full thesis-format draft in a source monorepo |
 | `findings-chapter` | Shorter architectural chapter |
 | `manuscript-draft` | Incomplete paper; missing methods/reproducibility |
@@ -34,9 +34,9 @@ P–J–S is a **cataloguing** check, not peer review.
 
 | ID | Title | Repo | Status | P | J | S | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| T01 | CONFLUENCE × OnCo: An Evidence-Gated Dynamical Framework for Integrating Oncology Knowledge Graphs with Adaptive Cancer-State Models | [thesis-01-confluence-onco](https://github.com/cloudynirvana/thesis-01-confluence-onco) | `dedicated-repo-stub` | Y | Y | Y | Canonical text: `project-confluence` `docs/manuscript/thesis_01_confluence_onco.md`. Public HTML/PDF on confluence-research.vercel.app. No thesis DOI. |
-| T02 | Complexity Science and NSTG-Guided In-Silico Pathology Dynamics for Biologics Pathway Exploration | [thesis-02-complexity-nstg](https://github.com/cloudynirvana/thesis-02-complexity-nstg) | `dedicated-repo-stub` | Y | Y | Y | Canonical text: `complexity-science` `docs/manuscript/thesis_02_complexity_nstg_pathology.md`. NSTG is a knowledge constraint, not ODE coefficients. |
-| T03 | Disease Profiles for Complex Pathologies: A Gated Method for Systemic Personalized-Medicine Research Objects | [thesis-03-disease-profile](https://github.com/cloudynirvana/thesis-03-disease-profile) | `dedicated-repo-stub` | Y | Y | Y | Canonical text: `project-confluence` `docs/manuscript/thesis_03_disease_profile_method.md`. Not personalized medicine as a clinical product. |
+| T01 | CONFLUENCE × OnCo: An Evidence-Gated Dynamical Framework for Integrating Oncology Knowledge Graphs with Adaptive Cancer-State Models | [thesis-01-confluence-onco](https://github.com/cloudynirvana/thesis-01-confluence-onco) | `dedicated-repo-published` | Y | Y | Y | Canonical text: `project-confluence` `docs/manuscript/thesis_01_confluence_onco.md`. Public HTML/PDF on confluence-research.vercel.app. No thesis DOI. |
+| T02 | Complexity Science and NSTG-Guided In-Silico Pathology Dynamics for Biologics Pathway Exploration | [thesis-02-complexity-nstg](https://github.com/cloudynirvana/thesis-02-complexity-nstg) | `dedicated-repo-published` | Y | Y | Y | Canonical text: `complexity-science` `docs/manuscript/thesis_02_complexity_nstg_pathology.md`. NSTG is a knowledge constraint, not ODE coefficients. |
+| T03 | Disease Profiles for Complex Pathologies: A Gated Method for Systemic Personalized-Medicine Research Objects | [thesis-03-disease-profile](https://github.com/cloudynirvana/thesis-03-disease-profile) | `dedicated-repo-published` | Y | Y | Y | Canonical text: `project-confluence` `docs/manuscript/thesis_03_disease_profile_method.md`. Not personalized medicine as a clinical product. |
 
 ## Tier B — `project-confluence` `docs/manuscript/` drafts
 
