@@ -4,9 +4,17 @@ Machine-readable-enough table of works indexed by this hub.
 Author: **Kelechi Emeka Ogbonna** (`kelechiogbonna300@gmail.com`).
 Institutional email: pending. Snapshot date: **2026-09-21**.
 
-Computational / in-silico research only. Not a medical device, not CDS,
-not a dose, not a cure. No document DOIs are registered for the theses.
-Do not invent identifiers.
+**Thesis 0** is a historical wet-lab B.Sc. (Nile University, 2022).
+Theses **01–03** are computational / in-silico research only. They are
+**not** the papaya AgNP antidiabetic study and must not be mixed with it.
+Not a medical device, not CDS, not a dose, not a cure. No document DOIs
+are registered for the computational theses. Do not invent identifiers.
+
+Theses 01–03 were reformatted (21 September 2026) to match the B.Sc.
+project chapter structure (Nile University style) for journal/thesis
+handoff. Dedicated-repo `git push` returned HTTP 403 for `cursor[bot]`;
+packages live under [`publish/`](publish/README.md) until those remotes
+accept a push.
 
 ## Flag legend (Problem–Justification–Significance)
 
@@ -29,14 +37,21 @@ P–J–S is a **cataloguing** check, not peer review.
 | `placeholder` | Notes, not a paper |
 | `proposal` | Research proposal; not a numbered thesis |
 | `software` | Code, notebooks, viz, game, or agent tooling |
+| `wet-lab-bsc` | Historical awarded B.Sc. project (separate study from 01–03) |
+
+## Thesis 0 — wet-lab B.Sc. (not computational; not mixed into 01–03)
+
+| ID | Title | Repo | Status | P | J | S | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–03. Scientific results must **not** be copied into 01–03. |
 
 ## Tier A — dedicated thesis landing repos
 
 | ID | Title | Repo | Status | P | J | S | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| T01 | CONFLUENCE × OnCo: An Evidence-Gated Dynamical Framework for Integrating Oncology Knowledge Graphs with Adaptive Cancer-State Models | [thesis-01-confluence-onco](https://github.com/cloudynirvana/thesis-01-confluence-onco) | `dedicated-repo-published` | Y | Y | Y | Canonical text: `project-confluence` `docs/manuscript/thesis_01_confluence_onco.md`. Public HTML/PDF on confluence-research.vercel.app. No thesis DOI. |
-| T02 | Complexity Science and NSTG-Guided In-Silico Pathology Dynamics for Biologics Pathway Exploration | [thesis-02-complexity-nstg](https://github.com/cloudynirvana/thesis-02-complexity-nstg) | `dedicated-repo-published` | Y | Y | Y | Canonical text: `complexity-science` `docs/manuscript/thesis_02_complexity_nstg_pathology.md`. NSTG is a knowledge constraint, not ODE coefficients. |
-| T03 | Disease Profiles for Complex Pathologies: A Gated Method for Systemic Personalized-Medicine Research Objects | [thesis-03-disease-profile](https://github.com/cloudynirvana/thesis-03-disease-profile) | `dedicated-repo-published` | Y | Y | Y | Canonical text: `project-confluence` `docs/manuscript/thesis_03_disease_profile_method.md`. Not personalized medicine as a clinical product. |
+| T01 | CONFLUENCE × OnCo: An Evidence-Gated Dynamical Framework for Integrating Oncology Knowledge Graphs with Adaptive Cancer-State Models | [thesis-01-confluence-onco](https://github.com/cloudynirvana/thesis-01-confluence-onco) | `dedicated-repo-published` | Y | Y | Y | Reformatted to Nile University B.Sc. chapter structure (Sep 2026). Hub copy: [`publish/thesis-01-confluence-onco/`](publish/thesis-01-confluence-onco/). Canonical software manuscript still in `project-confluence` `docs/manuscript/thesis_01_confluence_onco.md`. Public HTML/PDF on confluence-research.vercel.app. No thesis DOI. **Not** a wet-lab diabetes claim. |
+| T02 | Complexity Science and NSTG-Guided In-Silico Pathology Dynamics for Biologics Pathway Exploration | [thesis-02-complexity-nstg](https://github.com/cloudynirvana/thesis-02-complexity-nstg) | `dedicated-repo-published` | Y | Y | Y | Reformatted to Nile University B.Sc. chapter structure (Sep 2026). Hub copy: [`publish/thesis-02-complexity-nstg/`](publish/thesis-02-complexity-nstg/). Canonical software manuscript in `complexity-science`. NSTG is a knowledge constraint, not ODE coefficients. **Not** a wet-lab diabetes claim. |
+| T03 | Disease Profiles for Complex Pathologies: A Gated Method for Systemic Personalized-Medicine Research Objects | [thesis-03-disease-profile](https://github.com/cloudynirvana/thesis-03-disease-profile) | `dedicated-repo-published` | Y | Y | Y | Reformatted to Nile University B.Sc. chapter structure (Sep 2026). Hub copy: [`publish/thesis-03-disease-profile/`](publish/thesis-03-disease-profile/). Canonical software manuscript in `project-confluence`. Not personalized medicine as a clinical product. **Not** a wet-lab diabetes claim. |
 
 ## Tier B — `project-confluence` `docs/manuscript/` drafts
 
@@ -76,3 +91,4 @@ Thesis 02 is **not** in this folder; it is catalogued under T02 and C-CS.
 | CONFLUENCE software + T01/T03 manuscripts | https://github.com/cloudynirvana/project-confluence |
 | Complexity Science software + T02 manuscript | https://github.com/cloudynirvana/complexity-science |
 | This hub | https://github.com/cloudynirvana/research-theses-hub |
+| Wet-lab B.Sc. (Thesis 0; separate study) | https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp |

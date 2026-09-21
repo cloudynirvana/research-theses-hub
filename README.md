@@ -1,13 +1,20 @@
 # Research Theses Hub
 
-Index of thesis-worthy **computational / in-silico** works by
-**Kelechi Emeka Ogbonna**.
+Index of thesis-worthy works by **Kelechi Emeka Ogbonna**.
+
+**Thesis 0** is the awarded wet-lab B.Sc. (Nile University of Nigeria,
+July 2022; *Carica papaya* leaf-extract AgNPs, in vitro antidiabetic).
+Theses **01–03** are **computational / in-silico** manuscripts only.
+They share the B.Sc. **chapter format**; they do **not** share its
+biology, assays, or claims.
 
 Correspondence: `kelechiogbonna300@gmail.com` · GitHub
 [`cloudynirvana`](https://github.com/cloudynirvana).
 Institutional email: **pending**.
 
-This hub is a map, not a journal. Cite GitHub now
+This hub is a map, not a journal. Cross-links between Thesis 0 and
+theses 01–03 belong **only here** (and in READMEs), never as if they
+were one study. Cite GitHub now
 ([CITATION_GUIDE.md](CITATION_GUIDE.md)). Google Scholar and ResearchGate
 handoff is **manual and later**. No document DOI is registered here.
 Do not invent DOIs.
@@ -28,7 +35,8 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 
 | Tier | What it is | What it is not |
 | --- | --- | --- |
-| **A** | Dedicated thesis landing repos (citeable GitHub arrangement) | Peer-reviewed journals, clinical dossiers |
+| **0** | Wet-lab B.Sc. project (Nile University, 2022) | A computational result, a CONFLUENCE finding, or a CDS claim |
+| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–03 reformatted to B.Sc. chapter structure) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
 | **B** | Working drafts already in `project-confluence` `docs/manuscript/` | Submitted papers unless a later record says so |
 | **C** | Related software, notebooks, visualizations, and games | Theses. Labels below are honest about genre |
 
@@ -40,12 +48,21 @@ Knowledge ≠ Evidence ≠ Mechanism ≠ Parameter ≠ Prediction
 
 ---
 
-## Tier A — dedicated thesis repos
+## Thesis 0 — wet-lab B.Sc. (format source; separate science)
 
-Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF packages (Problem / Justification / Significance included). The
-working manuscripts still live in the source monorepos (Tier B and
+| # | Title | Landing repo | Honest label |
+| --- | --- | --- | --- |
+| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–03. |
+
+Chapter skeleton used as the **format** for 01–03: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references.
+
+## Tier A — dedicated computational thesis repos (reformatted)
+
+Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF packages. On the same date the manuscripts were **reformatted to match B.Sc. project chapter structure (Nile University style) for journal/thesis handoff**. Push to those remotes from this agent returned HTTP 403; the reformatted packages are also filed under [`publish/`](publish/README.md) on this hub. The
+working software manuscripts still live in the source monorepos (Tier B and
 `complexity-science`). Point citations at the landing repo **and** the
-canonical manuscript path until the landing repos hold the full text.
+canonical manuscript path, and at the hub `publish/` copy until the landing
+`main` branches accept the chapter-format push.
 
 | # | Title | Landing repo | Canonical manuscript today |
 | --- | --- | --- | --- |
@@ -55,15 +72,17 @@ canonical manuscript path until the landing repos hold the full text.
 
 | Thesis | One-line problem (research-scoped) |
 | --- | --- |
-| 01 | How can oncology knowledge graphs be bound to a frozen dynamical cancer-state model without treating a cited page as an identified parameter? |
+| 00 | Can *Carica papaya* leaf-extract silver nanoparticles show in vitro α-amylase inhibition relative to crude extracts and acarbose? (**Wet-lab B.Sc. only.**) |
+| 01 | How can heterogeneous oncology knowledge-graph records and molecular observations be incorporated into a frozen cancer dynamical model without collapsing knowledge, evidence, mechanism, parameterisation, and prediction into unsupported assumptions? |
 | 02 | How can complex in-silico pathology cases be explored under NSTG as a **qualitative knowledge constraint** without auto-translating guidelines into ODE coefficients? |
-| 03 | How can a laboratory export a versioned **Disease Profile** research object for complex pathologies without converting a chart into clinical personalized medicine? |
+| 03 | How can a laboratory encode a complex pathology as a versioned, reusable research object without treating a patient chart, a knowledge-graph page, or a qualitative board as an identified parameter or as clinical decision support? |
 
 Public HTML/PDF surfaces (source repos; not journal records; no thesis DOI):
 
-- Thesis 01 HTML: https://confluence-research.vercel.app/thesis · PDF: https://confluence-research.vercel.app/thesis.pdf
-- Thesis 02 PDF (raw GitHub): https://raw.githubusercontent.com/cloudynirvana/complexity-science/main/docs/manuscript/thesis_02_complexity_nstg_pathology.pdf
-- Thesis 03 PDF (repo path): [`docs/manuscript/thesis_03_disease_profile_method.pdf`](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.pdf)
+- Thesis 00 PDF: [`thesis-bsc-carica-papaya-agnp` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp/blob/main/THESIS.pdf) (wet-lab; separate study)
+- Thesis 01 HTML: https://confluence-research.vercel.app/thesis · PDF: https://confluence-research.vercel.app/thesis.pdf · hub chapter-format package: [`publish/thesis-01-confluence-onco/`](publish/thesis-01-confluence-onco/)
+- Thesis 02 PDF (raw GitHub): https://raw.githubusercontent.com/cloudynirvana/complexity-science/main/docs/manuscript/thesis_02_complexity_nstg_pathology.pdf · hub chapter-format package: [`publish/thesis-02-complexity-nstg/`](publish/thesis-02-complexity-nstg/)
+- Thesis 03 PDF (repo path): [`docs/manuscript/thesis_03_disease_profile_method.pdf`](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.pdf) · hub chapter-format package: [`publish/thesis-03-disease-profile/`](publish/thesis-03-disease-profile/)
 
 ---
 
@@ -110,7 +129,8 @@ Unrelated public repos (`simplifyr`, `routeoptima`, profile/license placeholders
 
 ## What this hub refuses
 
-- Clinical claims, dosing, CDS, diagnosis, or cure language.
+- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–03 as if they were the same study.
+- Clinical claims, dosing, CDS, diagnosis, or cure language on the computational theses.
 - Invented DOIs, ORCIDs, or journal acceptances.
 - Treating OnCo pages, NSTG chapters, or dashboard scores as identified Θ.
 - Calling a game, visualization, or MCP server a paper.
