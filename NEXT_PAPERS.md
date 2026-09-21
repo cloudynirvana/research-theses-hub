@@ -1,10 +1,10 @@
 # Next papers
 
 Five-to-eight **new** medical/computational problem topics. They were
-intentionally **not** restatements of theses 01–03. Three items below
-are now **published** as dedicated theses (NP-03 → T04, NP-05 → T05,
-NP-06 → T06). Leave them here as a historical map; do not re-open them
-as next papers.
+intentionally **not** restatements of theses 01–03. Four items below
+are now **published** as dedicated theses (NP-01 → T09, NP-03 → T04,
+NP-05 → T05, NP-06 → T06). Leave them here as a historical map; do not
+re-open them as next papers.
 
 | Existing thesis | Problem already claimed | Status |
 | --- | --- | --- |
@@ -15,17 +15,22 @@ as next papers.
 | 05 | Metastasis as stochastic process on anatomical graphs — do lumped ODE outputs leave edge rates unidentified? | **done / published** (`thesis-05-metastasis-anatomical-graphs`; was NP-05) |
 | 06 | Sparse connectome-style controllers as in-silico policy classes (not fly-neuron therapy) | **done / published** (`thesis-06-sparse-connectome-controllers`; was NP-06) |
 | 07 | Which kinetic parameters of a frozen 3-state TNBC ATP–ROS–glucose ODE remain structurally/practically identifiable when phytochemical/nanocarrier symbols are known forcings? | **done / published** (`thesis-07-tnbc-tipping-identifiability`; was R2 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
+| 08 | Undergraduate AgNP–papaya α-amylase work as a named observation channel that stress-tests metabolic ODEs without entering Θ as treatment | **done / published** (`thesis-08-papaya-agnp-observation-channel`; was R1 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
+| 09 | Shared metabolic ODE under multi-channel metabolomics-style maps (synthetic surrogate; ranks live in the dedicated repo, not in this note) | **done / published** (`thesis-09-ccle-metabolic-ode-identifiability`; was NP-01) |
+| 10 | Lactate, checkpoint proxies, and host constraints as evidence objects that change hypothesis rank without entering Θ | **done / published** (`thesis-10-immunometabolic-refuse-as-parameter`; was R3 in [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md)) |
 
 Each item below is a research-only problem. Not a trial protocol, not a
 device, not a dose, not a cure. No DOIs are implied.
 
 ---
 
-## NP-01 — Structural and practical identifiability of multi-channel CCLE-calibrated metabolic ODEs
+## NP-01 — Structural and practical identifiability of multi-channel metabolic ODEs — **DONE / PUBLISHED as T09**
 
-**Problem statement.** Can a shared metabolic cancer-state ODE recover a unique (or practically unique) parameter set from multi-channel CCLE metabolomics across distinct lineages, or does identifiability collapse once synthetic/single-summary targets are replaced by real, noisy outputs?
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability (`dedicated-repo-published`). Nile B.Sc. chapters. The observation noise is a synthetic surrogate, not a CCLE or DepMap download. Rank and profile results live in that repo; this note does not copy them.
 
-*Why it is not 01–03.* This is an identification / output-map problem on metabolomics channels, not a knowledge-graph adapter, not NSTG CaseCards, not a Disease Profile schema. A working draft already sits in `project-confluence` `docs/manuscript/structural_identifiability_ccle_manuscript.md` (catalog B04); it is not yet a completed paper. **Not T07:** thesis 07 asks identifiability of a frozen 3-state TNBC ATP–ROS–glucose ODE under known phytochemical/nanocarrier forcings, not multi-channel CCLE metabolomics.
+**Problem statement.** Can a shared metabolic cancer-state ODE recover a unique (or practically unique) parameter set from multi-channel metabolomics-style observation maps, or does identifiability collapse under noisy outputs?
+
+*Why it is not 01–03.* This is an identification / output-map problem on metabolomics-style channels, not a knowledge-graph adapter, not NSTG CaseCards, not a Disease Profile schema. An earlier incomplete draft still sits in `project-confluence` `docs/manuscript/structural_identifiability_ccle_manuscript.md` (catalog B04). That draft is not thesis 09, and its parameter fractions are not the ranks in the dedicated repo. **Not T07:** thesis 07 asks identifiability of a frozen 3-state TNBC ATP–ROS–glucose ODE under known phytochemical/nanocarrier forcings, not multi-channel metabolomics-style maps.
 
 ## NP-02 — Spatial transport identifiability: when a lumped ODE cannot represent a desmoplastic delivery barrier
 
@@ -82,7 +87,9 @@ device, not a dose, not a cure. No DOIs are implied.
 - Re-documenting the P0 OnCo adapter (already thesis 01 / findings chapter).
 - Another CaseCard seed pack without a new mathematical object (thesis 02).
 - A second schema for profiles (thesis 03 forbids a parallel contract).
+- Re-opening NP-01 (already thesis 09). Do not paste its ranks into this file.
 - Re-opening NP-03 / NP-05 / NP-06 (already theses 04–06).
+- Re-opening R1 (already thesis 08) or R3 (already thesis 10).
 - Re-opening R2 TNBC identifiability (already thesis 07).
 - Promoting games, dashboards, or MCP tools to papers.
 - Any title whose success criterion is a clinical response, dose, or cure.

@@ -5,18 +5,20 @@ Author: **Kelechi Emeka Ogbonna** (`kelechiogbonna300@gmail.com`).
 Institutional email: pending. Snapshot date: **2026-09-21**.
 
 **Thesis 0** is a historical wet-lab B.Sc. (Nile University, 2022).
-Theses **01–07** are computational / in-silico research only. They are
-**not** the papaya AgNP antidiabetic study and must not be mixed with it.
-Not a medical device, not CDS, not a dose, not a cure. No document DOIs
-are registered for the computational theses. Do not invent identifiers.
+Theses **01–10** are computational / in-silico research only. Thesis 0's
+assays are not their results. Thesis **08** may name the undergraduate
+α-amylase assay as an observation channel; it does not copy those tables
+into Θ as treatment. Not a medical device, not CDS, not a dose, not a
+cure. No document DOIs are registered for the computational theses.
+Do not invent identifiers.
 
 Theses 01–03 were reformatted (21 September 2026) to match the B.Sc.
 project chapter structure (Nile University style) for journal/thesis
 handoff. Hub copies of those three packages also live under
-[`publish/`](publish/README.md). Theses **04–07** are published on their
+[`publish/`](publish/README.md). Theses **04–10** are published on their
 dedicated remotes (`dedicated-repo-published`); each uses Nile B.Sc.
 Problem–Justification–Significance headings (04, 06) or the full Nile
-chapter skeleton (05, 07).
+chapter skeleton (05, 07–10).
 
 ## Flag legend (Problem–Justification–Significance)
 
@@ -39,13 +41,13 @@ P–J–S is a **cataloguing** check, not peer review.
 | `placeholder` | Notes, not a paper |
 | `proposal` | Research proposal; not a numbered thesis |
 | `software` | Code, notebooks, viz, game, or agent tooling |
-| `wet-lab-bsc` | Historical awarded B.Sc. project (separate study from 01–07) |
+| `wet-lab-bsc` | Historical awarded B.Sc. project (separate study from 01–10) |
 
-## Thesis 0 — wet-lab B.Sc. (not computational; not mixed into 01–07)
+## Thesis 0 — wet-lab B.Sc. (not computational; not mixed into 01–10)
 
 | ID | Title | Repo | Status | P | J | S | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–07. Scientific results must **not** be copied into 01–07. |
+| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–10. Scientific results must **not** be copied into 01–10. Thesis 08 may name the assay as an observation channel only. |
 
 ## Tier A — dedicated thesis landing repos
 
@@ -58,6 +60,9 @@ P–J–S is a **cataloguing** check, not peer review.
 | T05 | Metastasis as Stochastic Spreading on Organ-to-Organ Anatomical Graphs: Adequacy of Local Tumour-Burden ODEs under Lumped Outputs | [thesis-05-metastasis-anatomical-graphs](https://github.com/cloudynirvana/thesis-05-metastasis-anatomical-graphs) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapter structure (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Lumped burden ODE ≠ organ-graph process; Chapter Four is a toy five-node identifiability laboratory. Research only; not a medical device; no document DOI. **Not** a wet-lab diabetes claim. Was NEXT_PAPERS NP-05. |
 | T06 | Sparse Connectome-Style Controllers as In-Silico Policy Classes: Identifiable Closed-Loop Differences from Lumped Adaptive Therapy on a Toy Cancer ODE | [thesis-06-sparse-connectome-controllers](https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers) | `dedicated-repo-published` | Y | Y | Y | Nile B.Sc. Problem–Justification–Significance headings before methods (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Sparse Kenyon-cell-style policies are in-silico architecture classes on a toy ODE — **not** fly-neuron therapy. Adjacent game / visualization repos are not this paper. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-06. |
 | T07 | Structural and Practical Identifiability of a TNBC ATP–ROS–Glucose Tipping-Point ODE under Phytochemical/Nanocarrier Forcings | [thesis-07-tnbc-tipping-identifiability](https://github.com/cloudynirvana/thesis-07-tnbc-tipping-identifiability) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapter structure (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Frozen 3-state ODE; phytochemical/nanocarrier symbols are **known forcings**, not efficacy. Research only; not a medical device; no document DOI. **Not** a wet-lab diabetes claim. Was REFINED_NEXT_THESES R2. Frozen RHS: `TNBC-Metabolic-Strain-MOD`. |
+| T08 | Green-synthesized silver nanoparticles from *Carica papaya* as an in-vitro metabolic observation channel: linking α-amylase inhibition to gated dynamical oncology objects | [thesis-08-papaya-agnp-observation-channel](https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Undergraduate AgNP–papaya α-amylase work is a named observation channel that stress-tests metabolic ODEs; the inhibition fraction does not enter Θ as treatment. Research only; not a medical device; no document DOI. Does not re-tabulate Thesis 0. Was REFINED_NEXT_THESES R1. |
+| T09 | Structural and Practical Identifiability of a Shared Metabolic Cancer ODE under Multi-Channel Noisy Observation Maps | [thesis-09-ccle-metabolic-ode-identifiability](https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Shared metabolic ODE under multi-channel metabolomics-style maps. Observation noise is a synthetic surrogate, not a CCLE or DepMap download. Rank and profile results stay in that repo; they are not copied here. Research only; not a medical device; no document DOI. Was NEXT_PAPERS NP-01. B04 is an earlier incomplete draft, not the source of these ranks. |
+| T10 | Immunometabolic tumour-immune interaction ODEs under explicit non-parameters: lactate, checkpoint proxies, and host constraints that must not enter Θ | [thesis-10-immunometabolic-refuse-as-parameter](https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Lactate, checkpoint proxies, and host constraints are evidence objects that can change hypothesis rank without entering Θ. Research only; not a medical device; not a checkpoint dose; no document DOI. Was REFINED_NEXT_THESES R3. |
 
 ## Tier B — `project-confluence` `docs/manuscript/` drafts
 
@@ -66,7 +71,7 @@ P–J–S is a **cataloguing** check, not peer review.
 | B01 | (same as T01) | [thesis_01_confluence_onco.md](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_01_confluence_onco.md) | `working-manuscript` | Y | Y | Y | Expands B03. Vancouver bibliography in `thesis_01_bibliography.json`. |
 | B02 | (same as T03) | [thesis_03_disease_profile_method.md](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.md) | `working-manuscript` | Y | Y | Y | Method paper on shipped `confluence/profiles/` + case pack. Committed PDF. |
 | B03 | Knowledge Gates for Dynamical Oncology Models: Findings from an OnCo × CONFLUENCE Integration | [ONCO_CONFLUENCE_THESIS_FINDINGS.md](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/ONCO_CONFLUENCE_THESIS_FINDINGS.md) | `findings-chapter` | Y | Y | Y | Adapter / refusal findings. Not a clinical result. |
-| B04 | Structural Identifiability of a Real-CCLE-Calibrated Metabolic ODE Model Across Diverse Cancer Types | [structural_identifiability_ccle_manuscript.md](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/structural_identifiability_ccle_manuscript.md) | `manuscript-draft` | Y | P | P | Draft reports 7/17 → 15/17 identifiable parameters; method, tables, and commit hash still required. Not journal-submitted here. |
+| B04 | Structural Identifiability of a Real-CCLE-Calibrated Metabolic ODE Model Across Diverse Cancer Types | [structural_identifiability_ccle_manuscript.md](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/structural_identifiability_ccle_manuscript.md) | `manuscript-draft` | Y | P | P | Incomplete draft. It reports 7/17 → 15/17 identifiable parameters; method, tables, and commit hash are still required. Those fractions belong to this draft only and are **not** thesis 09. Thesis 09 is the published synthetic-surrogate study; its ranks stay in that repo. Not journal-submitted here. |
 | B05 | Structural Identifiability Manuscript Draft | [identifiability_paper_draft.md](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/identifiability_paper_draft.md) | `placeholder` | P | P | N | Placeholder pointing at B04. |
 
 Thesis 02 is **not** in this folder; it is catalogued under T02 and C-CS.
@@ -105,3 +110,6 @@ Thesis 02 is **not** in this folder; it is catalogued under T02 and C-CS.
 | Thesis 05 dedicated landing | https://github.com/cloudynirvana/thesis-05-metastasis-anatomical-graphs |
 | Thesis 06 dedicated landing | https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers |
 | Thesis 07 dedicated landing | https://github.com/cloudynirvana/thesis-07-tnbc-tipping-identifiability |
+| Thesis 08 dedicated landing | https://github.com/cloudynirvana/thesis-08-papaya-agnp-observation-channel |
+| Thesis 09 dedicated landing | https://github.com/cloudynirvana/thesis-09-ccle-metabolic-ode-identifiability |
+| Thesis 10 dedicated landing | https://github.com/cloudynirvana/thesis-10-immunometabolic-refuse-as-parameter |
