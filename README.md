@@ -4,8 +4,9 @@ Index of thesis-worthy works by **Kelechi Emeka Ogbonna**.
 
 **Thesis 0** is the awarded wet-lab B.Sc. (Nile University of Nigeria,
 July 2022; *Carica papaya* leaf-extract AgNPs, in vitro antidiabetic).
-Theses **01–03** are **computational / in-silico** manuscripts only.
-They share the B.Sc. **chapter format**; they do **not** share its
+Theses **01–07** are **computational / in-silico** manuscripts only.
+They share the B.Sc. **chapter format** (full Nile skeleton or
+Problem–Justification–Significance headings); they do **not** share its
 biology, assays, or claims.
 
 Correspondence: `kelechiogbonna300@gmail.com` · GitHub
@@ -13,7 +14,7 @@ Correspondence: `kelechiogbonna300@gmail.com` · GitHub
 Institutional email: **pending**.
 
 This hub is a map, not a journal. Cross-links between Thesis 0 and
-theses 01–03 belong **only here** (and in READMEs), never as if they
+theses 01–07 belong **only here** (and in READMEs), never as if they
 were one study. Cite GitHub now
 ([CITATION_GUIDE.md](CITATION_GUIDE.md)). Google Scholar and ResearchGate
 handoff is **manual and later**. No document DOI is registered here.
@@ -26,7 +27,8 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | --- | --- |
 | [CATALOG.md](CATALOG.md) | Titles, repos, status, Problem–Justification–Significance flags |
 | [CITATION_GUIDE.md](CITATION_GUIDE.md) | How to cite from GitHub |
-| [NEXT_PAPERS.md](NEXT_PAPERS.md) | New problem topics, distinct from theses 01–03 |
+| [NEXT_PAPERS.md](NEXT_PAPERS.md) | Remaining problem topics (NP-03, NP-05, NP-06 published as T04–T06) |
+| [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md) | Journal-path refinements (R2 published as T07) |
 | [CITATION.cff](CITATION.cff) | Machine-readable citation for this hub |
 
 ---
@@ -36,7 +38,7 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | Tier | What it is | What it is not |
 | --- | --- | --- |
 | **0** | Wet-lab B.Sc. project (Nile University, 2022) | A computational result, a CONFLUENCE finding, or a CDS claim |
-| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–03 reformatted to B.Sc. chapter structure) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
+| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–07 use Nile B.Sc. chapter format) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
 | **B** | Working drafts already in `project-confluence` `docs/manuscript/` | Submitted papers unless a later record says so |
 | **C** | Related software, notebooks, visualizations, and games | Theses. Labels below are honest about genre |
 
@@ -52,23 +54,23 @@ Knowledge ≠ Evidence ≠ Mechanism ≠ Parameter ≠ Prediction
 
 | # | Title | Landing repo | Honest label |
 | --- | --- | --- | --- |
-| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–03. |
+| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–07. |
 
-Chapter skeleton used as the **format** for 01–03: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references.
+Chapter skeleton used as the **format** for 01–07: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references. Theses 04 and 06 publish Nile P–J–S headings in a shorter working-manuscript layout; 01–03, 05, and 07 use the full chapter skeleton.
 
 ## Tier A — dedicated computational thesis repos (reformatted)
 
-Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF packages. On the same date the manuscripts were **reformatted to match B.Sc. project chapter structure (Nile University style) for journal/thesis handoff**. Push to those remotes from this agent returned HTTP 403; the reformatted packages are also filed under [`publish/`](publish/README.md) on this hub. The
-working software manuscripts still live in the source monorepos (Tier B and
-`complexity-science`). Point citations at the landing repo **and** the
-canonical manuscript path, and at the hub `publish/` copy until the landing
-`main` branches accept the chapter-format push.
+Landing repos exist. As of 21 September 2026 they hold full `THESIS.md` + PDF packages. Theses **01–07** use Nile University B.Sc. chapter format (full skeleton or P–J–S headings) for journal/thesis handoff. Hub `publish/` copies remain for 01–03. Theses **04–07** are published on their dedicated remotes. Working software manuscripts for 01–03 still live in the source monorepos (Tier B and `complexity-science`). Point citations at the landing repo (and, for 01–03, the canonical manuscript path plus the hub `publish/` copy).
 
 | # | Title | Landing repo | Canonical manuscript today |
 | --- | --- | --- | --- |
 | **01** | CONFLUENCE × OnCo: An Evidence-Gated Dynamical Framework for Integrating Oncology Knowledge Graphs with Adaptive Cancer-State Models | [thesis-01-confluence-onco](https://github.com/cloudynirvana/thesis-01-confluence-onco) | [`project-confluence` `docs/manuscript/thesis_01_confluence_onco.md`](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_01_confluence_onco.md) |
 | **02** | Complexity Science and NSTG-Guided In-Silico Pathology Dynamics for Biologics Pathway Exploration | [thesis-02-complexity-nstg](https://github.com/cloudynirvana/thesis-02-complexity-nstg) | [`complexity-science` `docs/manuscript/thesis_02_complexity_nstg_pathology.md`](https://github.com/cloudynirvana/complexity-science/blob/main/docs/manuscript/thesis_02_complexity_nstg_pathology.md) |
 | **03** | Disease Profiles for Complex Pathologies: A Gated Method for Systemic Personalized-Medicine Research Objects | [thesis-03-disease-profile](https://github.com/cloudynirvana/thesis-03-disease-profile) | [`project-confluence` `docs/manuscript/thesis_03_disease_profile_method.md`](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.md) |
+| **04** | Occult Residual Disease as a Hybrid Switching System: Named Modes, Switching Observables, and a Refusal to Smuggle Continuous Θ | [thesis-04-occult-hybrid-switching](https://github.com/cloudynirvana/thesis-04-occult-hybrid-switching) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-04-occult-hybrid-switching/blob/main/THESIS.md) on the landing repo |
+| **05** | Metastasis as Stochastic Spreading on Organ-to-Organ Anatomical Graphs: Adequacy of Local Tumour-Burden ODEs under Lumped Outputs | [thesis-05-metastasis-anatomical-graphs](https://github.com/cloudynirvana/thesis-05-metastasis-anatomical-graphs) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-05-metastasis-anatomical-graphs/blob/main/THESIS.md) on the landing repo |
+| **06** | Sparse Connectome-Style Controllers as In-Silico Policy Classes: Identifiable Closed-Loop Differences from Lumped Adaptive Therapy on a Toy Cancer ODE | [thesis-06-sparse-connectome-controllers](https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers/blob/main/THESIS.md) on the landing repo |
+| **07** | Structural and Practical Identifiability of a TNBC ATP–ROS–Glucose Tipping-Point ODE under Phytochemical/Nanocarrier Forcings | [thesis-07-tnbc-tipping-identifiability](https://github.com/cloudynirvana/thesis-07-tnbc-tipping-identifiability) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-07-tnbc-tipping-identifiability/blob/main/THESIS.md) on the landing repo |
 
 | Thesis | One-line problem (research-scoped) |
 | --- | --- |
@@ -76,13 +78,21 @@ canonical manuscript path, and at the hub `publish/` copy until the landing
 | 01 | How can heterogeneous oncology knowledge-graph records and molecular observations be incorporated into a frozen cancer dynamical model without collapsing knowledge, evidence, mechanism, parameterisation, and prediction into unsupported assumptions? |
 | 02 | How can complex in-silico pathology cases be explored under NSTG as a **qualitative knowledge constraint** without auto-translating guidelines into ODE coefficients? |
 | 03 | How can a laboratory encode a complex pathology as a versioned, reusable research object without treating a patient chart, a knowledge-graph page, or a qualitative board as an identified parameter or as clinical decision support? |
+| 04 | Occult residual disease as hybrid switching — which observables identify mode switches? |
+| 05 | Metastasis as stochastic process on anatomical graphs — do lumped ODE outputs leave edge rates unidentified? |
+| 06 | Sparse connectome-style controllers as in-silico policy classes (not fly-neuron therapy). |
+| 07 | Which kinetic parameters of a frozen 3-state TNBC ATP–ROS–glucose ODE remain structurally/practically identifiable when phytochemical/nanocarrier symbols are known forcings? |
 
 Public HTML/PDF surfaces (source repos; not journal records; no thesis DOI):
 
 - Thesis 00 PDF: [`thesis-bsc-carica-papaya-agnp` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp/blob/main/THESIS.pdf) (wet-lab; separate study)
-- Thesis 01 HTML: https://confluence-research.vercel.app/thesis · PDF: https://confluence-research.vercel.app/thesis.pdf · hub chapter-format package: [`publish/thesis-01-confluence-onco/`](publish/thesis-01-confluence-onco/)
-- Thesis 02 PDF (raw GitHub): https://raw.githubusercontent.com/cloudynirvana/complexity-science/main/docs/manuscript/thesis_02_complexity_nstg_pathology.pdf · hub chapter-format package: [`publish/thesis-02-complexity-nstg/`](publish/thesis-02-complexity-nstg/)
-- Thesis 03 PDF (repo path): [`docs/manuscript/thesis_03_disease_profile_method.pdf`](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.pdf) · hub chapter-format package: [`publish/thesis-03-disease-profile/`](publish/thesis-03-disease-profile/)
+- Thesis 01 HTML: https://confluence-research.vercel.app/thesis · PDF: https://confluence-research.vercel.app/thesis.pdf · hub chapter-format package: [`publish/thesis-01-confluence-onco/`](publish/thesis-01-confluence-onco/) · landing: https://github.com/cloudynirvana/thesis-01-confluence-onco
+- Thesis 02 PDF (raw GitHub): https://raw.githubusercontent.com/cloudynirvana/complexity-science/main/docs/manuscript/thesis_02_complexity_nstg_pathology.pdf · hub chapter-format package: [`publish/thesis-02-complexity-nstg/`](publish/thesis-02-complexity-nstg/) · landing: https://github.com/cloudynirvana/thesis-02-complexity-nstg
+- Thesis 03 PDF (repo path): [`docs/manuscript/thesis_03_disease_profile_method.pdf`](https://github.com/cloudynirvana/project-confluence/blob/main/docs/manuscript/thesis_03_disease_profile_method.pdf) · hub chapter-format package: [`publish/thesis-03-disease-profile/`](publish/thesis-03-disease-profile/) · landing: https://github.com/cloudynirvana/thesis-03-disease-profile
+- Thesis 04 PDF: [`thesis-04-occult-hybrid-switching` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-04-occult-hybrid-switching/blob/main/THESIS.pdf)
+- Thesis 05 PDF: [`thesis-05-metastasis-anatomical-graphs` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-05-metastasis-anatomical-graphs/blob/main/THESIS.pdf)
+- Thesis 06 PDF: [`thesis-06-sparse-connectome-controllers` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-06-sparse-connectome-controllers/blob/main/THESIS.pdf)
+- Thesis 07 PDF: [`thesis-07-tnbc-tipping-identifiability` `THESIS.pdf`](https://github.com/cloudynirvana/thesis-07-tnbc-tipping-identifiability/blob/main/THESIS.pdf)
 
 ---
 
@@ -116,7 +126,7 @@ These repositories support, illustrate, or experiment near the theses.
 | --- | --- |
 | [project-confluence](https://github.com/cloudynirvana/project-confluence) | **Software monorepo** for CONFLUENCE: 15-D cancer-state ODE, adapters, Disease Profile exporter, theory notes, and manuscript sources. Computational research framework. Not a care product. |
 | [complexity-science](https://github.com/cloudynirvana/complexity-science) | **Software pipeline** for YAML `CaseCard` → gated `PathwaySketch`. Source of thesis 02. NSTG is cited, not redistributed, and never auto-translated into parameters. |
-| [TNBC-Metabolic-Strain-MOD](https://github.com/cloudynirvana/TNBC-Metabolic-Strain-MOD) | **Notebook-oriented ODE** of TNBC ATP/ROS strain. Frozen lineage `tnbc_mod_3s` in thesis 01. In-silico notebooks; ROS audit pending in the thesis record. Not a treatment model. |
+| [TNBC-Metabolic-Strain-MOD](https://github.com/cloudynirvana/TNBC-Metabolic-Strain-MOD) | **Notebook-oriented ODE** of TNBC ATP/ROS strain. Frozen lineage `tnbc_mod_3s` in thesis 01; frozen RHS source for thesis 07. In-silico notebooks; not a treatment model. |
 | [saem-mcp](https://github.com/cloudynirvana/saem-mcp) | **Experimental MCP wrapper** exposing Confluence simulation tools to agents. Research-tooling. Simulated scores are not protocols, doses, or clinical validation. |
 | [consciousness-dashboard](https://github.com/cloudynirvana/consciousness-dashboard) | **Interactive visualization** (“What Is Alive”). Literature-inspired dashboard, not a consciousness assay and not a thesis. |
 | [individuality-dynamics](https://github.com/cloudynirvana/individuality-dynamics) | **Oscillator experiment** operationalizing causal-closure individuality. Rogue cluster is an abstract dynamical analogy, not a biological tumor simulator. |
@@ -129,10 +139,11 @@ Unrelated public repos (`simplifyr`, `routeoptima`, profile/license placeholders
 
 ## What this hub refuses
 
-- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–03 as if they were the same study.
+- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–07 as if they were the same study.
 - Clinical claims, dosing, CDS, diagnosis, or cure language on the computational theses.
 - Invented DOIs, ORCIDs, or journal acceptances.
 - Treating OnCo pages, NSTG chapters, or dashboard scores as identified Θ.
 - Calling a game, visualization, or MCP server a paper.
+- Reading T06 as fly-neuron therapy, or T07 phytochemical/nanocarrier symbols as efficacy.
 
-Next computational problem topics (not theses 01–03): [NEXT_PAPERS.md](NEXT_PAPERS.md).
+Remaining computational problem topics (NP-03 / NP-05 / NP-06 are published as T04–T06): [NEXT_PAPERS.md](NEXT_PAPERS.md). R2 is published as T07: [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md).

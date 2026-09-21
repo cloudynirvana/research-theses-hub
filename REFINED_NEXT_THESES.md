@@ -1,6 +1,6 @@
 # Refined next theses (journal-path)
 
-Grounded in: B.Sc. *Carica papaya* AgNP antidiabetic thesis (2022); computational theses 01–06; attached roadmaps (TNBC phytochemical tipping-point ODE; compartmental nanobiocomposite; immunometabolic systems biology; in-silico mitochondrial reprogramming); and the non-recursive-axiom white paper (as **epistemic** framing only—not a clinical claim).
+Grounded in: B.Sc. *Carica papaya* AgNP antidiabetic thesis (2022); computational theses 01–07; attached roadmaps (TNBC phytochemical tipping-point ODE; compartmental nanobiocomposite; immunometabolic systems biology; in-silico mitochondrial reprogramming); and the non-recursive-axiom white paper (as **epistemic** framing only—not a clinical claim).
 
 Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (Problem → Justification → Aim/Objectives → Significance → Scope → Lit → Methods → Results → Discussion). Research honesty: in-silico / in-vitro architecture first; **not** CDS, dosing, or cure.
 
@@ -8,15 +8,16 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 
 ## Portfolio map (what you already own)
 
-| ID | Object | Role |
-| --- | --- | --- |
-| T0 | Papaya AgNP α-amylase / phytochemical encapsulation | Wet-lab anchor: green AgNP + metabolic enzyme assay |
-| T1 | CONFLUENCE × OnCo gates | Knowledge ≠ Θ |
-| T2 | NSTG CaseCard pathway sketches | Guideline ≠ coefficient |
-| T3 | Disease Profile research object | Chart/board ≠ CDS |
-| T4 | Occult disease as hybrid modes | Occult ≠ smuggled continuous state |
-| T5 | Metastasis on anatomical graphs *(drafting)* | Burden ODE ≠ organ-graph process |
-| T6 | Sparse connectome controllers | Architecture class ≠ fly therapy |
+| ID | Object | Role | Status |
+| --- | --- | --- | --- |
+| T0 | Papaya AgNP α-amylase / phytochemical encapsulation | Wet-lab anchor: green AgNP + metabolic enzyme assay | published (`thesis-bsc-carica-papaya-agnp`) |
+| T1 | CONFLUENCE × OnCo gates | Knowledge ≠ Θ | published (`thesis-01-confluence-onco`) |
+| T2 | NSTG CaseCard pathway sketches | Guideline ≠ coefficient | published (`thesis-02-complexity-nstg`) |
+| T3 | Disease Profile research object | Chart/board ≠ CDS | published (`thesis-03-disease-profile`) |
+| T4 | Occult disease as hybrid modes | Occult ≠ smuggled continuous state | **done / published** (`thesis-04-occult-hybrid-switching`) |
+| T5 | Metastasis on anatomical graphs | Burden ODE ≠ organ-graph process | **done / published** (`thesis-05-metastasis-anatomical-graphs`) |
+| T6 | Sparse connectome controllers | Architecture class ≠ fly therapy | **done / published** (`thesis-06-sparse-connectome-controllers`) |
+| T7 | TNBC ATP–ROS–glucose identifiability under known forcings | Kinetic Θ ≠ phytochemical efficacy | **done / published** (`thesis-07-tnbc-tipping-identifiability`; was R2) |
 
 ---
 
@@ -35,8 +36,10 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 
 ---
 
-### R2 — TNBC ATP–ROS–glucose tipping points under phytochemical *forcing* (identifiability first)
+### R2 — TNBC ATP–ROS–glucose tipping points under phytochemical *forcing* (identifiability first) — **DONE / PUBLISHED as T07**
 **Working title:** Structural and practical identifiability of a TNBC ATP–ROS–glucose tipping-point ODE under phytochemical and nanocarrier forcings.
+
+**Status.** Dedicated repo published: https://github.com/cloudynirvana/thesis-07-tnbc-tipping-identifiability (`dedicated-repo-published`). Nile B.Sc. chapter format. Phytochemical/nanocarrier symbols are known forcings, not efficacy.
 
 **Problem:** The attached TNBC roadmap reports a small \(G_{\mathrm{tip}}\) shift (0.238→0.245) under hybrid nano-forcing, but does not yet ask which of \(k_{\mathrm{glyc}},g,d,r,i_{\mathrm{glyc}}\) (and forcing amplitudes) are identifiable from realistic ATP/ROS/glucose observation schedules.
 
@@ -118,9 +121,9 @@ Author target: **Kelechi Emeka Ogbonna**. Format: Nile B.Sc. chapter skeleton (P
 - Promoting fly-brain games to medical controllers (already fenced in T6).
 
 ## Suggested build order
-1. **R2** (sharpest computational paper from existing ODE stub)  
+1. **R2** — **done / published as T07**  
 2. **R1** (binds T0 to the portfolio)  
 3. **R3** (immunometabolism + gates)  
 4. **R4** then **R5** (nano + mito)  
-5. **R6** (short theory) / **R7** as a chapter of R2  
+5. **R6** (short theory) / **R7** as a chapter of R2 / T07  
 
