@@ -4,7 +4,7 @@ Index of thesis-worthy works by **Kelechi Emeka Ogbonna**.
 
 **Thesis 0** is the awarded wet-lab B.Sc. (Nile University of Nigeria,
 July 2022; *Carica papaya* leaf-extract AgNPs, in vitro antidiabetic).
-This hub indexes theses **T00–T34**. Theses **01–34** are
+This hub indexes theses **T00–T35**. Theses **01–35** are
 **computational / in-silico** manuscripts only. They share the B.Sc.
 **chapter format** (full Nile skeleton or
 Problem–Justification–Significance headings); they do **not** share its
@@ -17,7 +17,7 @@ Correspondence: `kelechiogbonna300@gmail.com` · GitHub
 Institutional email: **pending**.
 
 This hub is a map, not a journal. Cross-links between Thesis 0 and
-theses 01–34 belong **only here** (and in READMEs), never as if they
+theses 01–35 belong **only here** (and in READMEs), never as if they
 were one study. Cite GitHub now
 ([CITATION_GUIDE.md](CITATION_GUIDE.md)). Google Scholar and ResearchGate
 handoff is **manual and later**. No document DOI is registered here.
@@ -31,7 +31,7 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | [CATALOG.md](CATALOG.md) | Titles, repos, status, Problem–Justification–Significance flags |
 | [CITATION_GUIDE.md](CITATION_GUIDE.md) | How to cite from GitHub |
 | [NEXT_PAPERS.md](NEXT_PAPERS.md) | Problem topics, all published (NP-01→T09; NP-02→T11; NP-03→T04; NP-04→T12; NP-05→T05; NP-06→T06; NP-07→T13; NP-08→T14) |
-| [VALIDATION_NEXT.md](VALIDATION_NEXT.md) | Planned validation theses T35–T37, T41–T42 (no new repos until hub merge); T38–T40, T43 held |
+| [VALIDATION_NEXT.md](VALIDATION_NEXT.md) | T35 published; T36/T42 rewritten; T37/T41 held; T38–T40, T43 held. Next: T35 `k_par` addendum, then T42 |
 | [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md) | Journal-path refinements (R1→T08; R2→T07; R3→T10; R4→T15; R5→T16). T17 and T18 are published computational objects outside that list. |
 | [CITATION.cff](CITATION.cff) | Machine-readable citation for this hub |
 
@@ -42,7 +42,7 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | Tier | What it is | What it is not |
 | --- | --- | --- |
 | **0** | Wet-lab B.Sc. project (Nile University, 2022) | A computational result, a CONFLUENCE finding, or a CDS claim |
-| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–34 use Nile B.Sc. chapter format) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
+| **A** | Dedicated thesis landing repos (citeable GitHub arrangement; 01–35 use Nile B.Sc. chapter format) | Peer-reviewed journals, clinical dossiers, or the papaya AgNP study |
 | **B** | Working drafts already in `project-confluence` `docs/manuscript/` | Submitted papers unless a later record says so |
 | **C** | Related software, notebooks, visualizations, and games | Theses. Labels below are honest about genre |
 
@@ -58,13 +58,13 @@ Knowledge ≠ Evidence ≠ Mechanism ≠ Parameter ≠ Prediction
 
 | # | Title | Landing repo | Honest label |
 | --- | --- | --- | --- |
-| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–34. Thesis 08 may name the assay as an observation channel only. |
+| **00** | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | Awarded B.Sc. Biotechnology project, Nile University of Nigeria, July 2022. Phytochemical analysis, AgNP biosynthesis, UV-Vis, α-amylase inhibition. **Not** computational theses 01–35. Thesis 08 may name the assay as an observation channel only. |
 
-Chapter skeleton used as the **format** for 01–34: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references. Theses 04 and 06 publish Nile P–J–S headings in a shorter working-manuscript layout; 01–03, 05, and 07–34 use the full chapter skeleton.
+Chapter skeleton used as the **format** for 01–35: title page; declaration; abstract; table of contents; CHAPTER ONE (1.1 Background; 1.2 STATEMENT OF RESEARCH PROBLEM; 1.3 JUSTIFICATION OF STUDY; 1.4 AIM AND OBJECTIVES; 1.5 SIGNIFICANCE; 1.6 SCOPE); CHAPTER TWO literature review; CHAPTER THREE materials and methods; CHAPTER FOUR results; CHAPTER FIVE discussion, conclusion, recommendation; Vancouver references. Theses 04 and 06 publish Nile P–J–S headings in a shorter working-manuscript layout; 01–03, 05, and 07–35 use the full chapter skeleton.
 
 ## Tier A — dedicated computational thesis repos (reformatted)
 
-Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF packages. Theses **01–34** use Nile University B.Sc. chapter format (full skeleton or P–J–S headings) for journal/thesis handoff. Hub `publish/` copies remain for 01–03. Theses **04–34** are published on their dedicated remotes. Working software manuscripts for 01–03 still live in the source monorepos (Tier B and `complexity-science`). Point citations at the landing repo (and, for 01–03, the canonical manuscript path plus the hub `publish/` copy). Orphan scaffolds that briefly held numbers 19–26 are `DEPRECATED` in [CATALOG.md](CATALOG.md); do not continue them.
+Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF packages. Theses **01–35** use Nile University B.Sc. chapter format (full skeleton or P–J–S headings) for journal/thesis handoff. Hub `publish/` copies remain for 01–03. Theses **04–35** are published on their dedicated remotes. Working software manuscripts for 01–03 still live in the source monorepos (Tier B and `complexity-science`). Point citations at the landing repo (and, for 01–03, the canonical manuscript path plus the hub `publish/` copy). Orphan scaffolds that briefly held numbers 19–26 are `DEPRECATED` in [CATALOG.md](CATALOG.md); do not continue them.
 
 | # | Title | Landing repo | Canonical manuscript today |
 | --- | --- | --- | --- |
@@ -102,6 +102,7 @@ Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF pa
 | **32** | Aging-like BAC sectors when coupling travels through barrier-limited desmoplastic edges | [thesis-32-bac-sectors-under-barrier-transport](https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport/blob/main/THESIS.md) on the landing repo |
 | **33** | Chain-recurrent labels recoverable from multi-channel ranks that survive stiff–sloppy reduction | [thesis-33-chain-recurrent-under-surviving-ranks](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks/blob/main/THESIS.md) on the landing repo |
 | **34** | Named AgNP observation-channel scores as forcing provenance under evidence gates | [thesis-34-agnp-channel-forcing-provenance](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance/blob/main/THESIS.md) on the landing repo |
+| **35** | Structural discrepancy versus Θ uncertainty after a rank-preserving reduction | [thesis-35-discrepancy-vs-theta-uncertainty](https://github.com/cloudynirvana/thesis-35-discrepancy-vs-theta-uncertainty) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-35-discrepancy-vs-theta-uncertainty/blob/main/THESIS.md) on the landing repo |
 
 | Thesis | One-line problem (research-scoped) |
 | --- | --- |
@@ -140,6 +141,7 @@ Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF pa
 | 32 | Do aging-like BAC sectors survive when coupling only travels through barrier-limited edges? (T25×T21) |
 | 33 | Which chain-recurrent labels remain recoverable from multi-channel ranks that survive reduction? (T26×T24) |
 | 34 | Which AgNP channel scores may be admitted only as tip-ODE forcing provenance under the gates? (T08×T19) |
+| 35 | After a rank-preserving reduction, is held-out error dominated by structural discrepancy rather than Θ uncertainty? (T24×T28) |
 
 Public HTML/PDF surfaces (source repos; not journal records; no thesis DOI):
 
@@ -224,7 +226,7 @@ Unrelated public repos (`simplifyr`, `routeoptima`, profile/license placeholders
 
 ## What this hub refuses
 
-- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–34 as if they were the same study. Thesis 08 names the assay as an observation channel; it does not re-tabulate Thesis 0 and it is not a therapy claim. Thesis 15 and Thesis 34 do not re-tabulate Thesis 0 either.
+- Mixing Thesis 0 (papaya AgNP in vitro antidiabetic) into theses 01–35 as if they were the same study. Thesis 08 names the assay as an observation channel; it does not re-tabulate Thesis 0 and it is not a therapy claim. Thesis 15 and Thesis 34 do not re-tabulate Thesis 0 either.
 - Clinical claims, dosing, CDS, diagnosis, or cure language on the computational theses.
 - Invented DOIs, ORCIDs, or journal acceptances.
 - Treating OnCo pages, NSTG chapters, dashboard scores, lactate, checkpoint proxies, host constraints, host windows, or surrogate screen scores as identified Θ.
@@ -232,7 +234,7 @@ Unrelated public repos (`simplifyr`, `routeoptima`, profile/license placeholders
 - Reading T06 as fly-neuron therapy, T07 phytochemical/nanocarrier symbols as efficacy, or T10 as checkpoint dosing.
 - Reading T13 as rejuvenation, T16 surrogate scores as a docking run, T17's collocation defect as a certified Conley set, or T18 sector labels as assays.
 - Continuing DEPRECATED orphan scaffolds formerly labelled thesis-19…thesis-26; see [CATALOG.md](CATALOG.md).
-- Opening planned validation repos (T35–T37, T41–T42) before the hub merge that indexes T19–T34; see [VALIDATION_NEXT.md](VALIDATION_NEXT.md).
+- Opening T36 / T37 / T41 / T42 before the T35 addendum (`k_par` vs residual) is scored; see [VALIDATION_NEXT.md](VALIDATION_NEXT.md).
 - Copying thesis 09 rank tables into this hub. Those results stay in the landing repo. The observation noise there is a synthetic surrogate, not a CCLE or DepMap download.
 
-NP-01 through NP-08 are published (T09, T11, T04, T12, T05, T06, T13, T14): [NEXT_PAPERS.md](NEXT_PAPERS.md). R1–R5 are published (T08, T07, T10, T15, T16). T17 (Lyapunov) and T18 (Bounded Adaptive Coherence) are published computational objects: [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md). Composition / validation wave T19–T34 is indexed here; planned follow-ons are in [VALIDATION_NEXT.md](VALIDATION_NEXT.md).
+NP-01 through NP-08 are published (T09, T11, T04, T12, T05, T06, T13, T14): [NEXT_PAPERS.md](NEXT_PAPERS.md). R1–R5 are published (T08, T07, T10, T15, T16). T17 (Lyapunov) and T18 (Bounded Adaptive Coherence) are published computational objects: [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md). Composition wave T19–T34 and validation thesis T35 are indexed here; remaining follow-ons are in [VALIDATION_NEXT.md](VALIDATION_NEXT.md).

@@ -5,7 +5,7 @@ Author: **Kelechi Emeka Ogbonna** (`kelechiogbonna300@gmail.com`).
 Institutional email: pending. Snapshot date: **2026-09-22**.
 
 **Thesis 0** is a historical wet-lab B.Sc. (Nile University, 2022).
-Theses **01–34** are computational / in-silico research only. Thesis 0's
+Theses **01–35** are computational / in-silico research only. Thesis 0's
 assays are not their results. Thesis **08** may name the undergraduate
 α-amylase assay as an observation channel; it does not copy those tables
 into Θ as treatment. Not a medical device, not CDS, not a dose, not a
@@ -15,10 +15,10 @@ Do not invent identifiers.
 Theses 01–03 were reformatted (21 September 2026) to match the B.Sc.
 project chapter structure (Nile University style) for journal/thesis
 handoff. Hub copies of those three packages also live under
-[`publish/`](publish/README.md). Theses **04–34** are published on their
+[`publish/`](publish/README.md). Theses **04–35** are published on their
 dedicated remotes (`dedicated-repo-published`); each uses Nile B.Sc.
 Problem–Justification–Significance headings (04, 06) or the full Nile
-chapter skeleton (05, 07–34). Number slots 19–26 formerly pointed at
+chapter skeleton (05, 07–35). Number slots 19–26 formerly pointed at
 orphan scaffolds; those orphans are **DEPRECATED** (see below) and must
 not be continued.
 
@@ -50,7 +50,7 @@ P–J–S is a **cataloguing** check, not peer review.
 
 | ID | Title | Repo | Status | P | J | S | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–34. Scientific results must **not** be copied into 01–34. Thesis 08 may name the assay as an observation channel only. |
+| T00 | In vitro antidiabetic activity of synthesized silver nanoparticles obtained from the leaf extract of *Carica papaya* | [thesis-bsc-carica-papaya-agnp](https://github.com/cloudynirvana/thesis-bsc-carica-papaya-agnp) | `wet-lab-bsc` | — | Y | — | Nile University of Nigeria, B.Sc. Biotechnology, July 2022. Supervisor: Ms. Morenike Fadayomi. Matric 181210009. P/S flags are computational; this row is wet-lab. Chapter skeleton is the **format template** for 01–35. Scientific results must **not** be copied into 01–34. Thesis 08 may name the assay as an observation channel only. |
 
 ## Tier A — dedicated thesis landing repos
 
@@ -91,6 +91,7 @@ P–J–S is a **cataloguing** check, not peer review.
 | T32 | Aging-like BAC sectors when coupling travels through barrier-limited desmoplastic edges | [thesis-32-bac-sectors-under-barrier-transport](https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Do aging-like BAC sectors survive when coupling only travels through barrier-limited edges? Depends on T25×T21. Research only; not a medical device; no document DOI. Snapshot 2026-09-22. |
 | T33 | Chain-recurrent labels recoverable from multi-channel ranks that survive stiff–sloppy reduction | [thesis-33-chain-recurrent-under-surviving-ranks](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Which chain-recurrent labels remain recoverable from multi-channel ranks that survive reduction? Depends on T26×T24. Research only; not a medical device; no document DOI. Snapshot 2026-09-22. |
 | T34 | Named AgNP observation-channel scores as forcing provenance under evidence gates | [thesis-34-agnp-channel-forcing-provenance](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. Which AgNP channel scores may be admitted only as tip-ODE forcing provenance under the gates? Depends on T08×T19. Does not re-tabulate Thesis 0. Research only; not a medical device; no document DOI. Snapshot 2026-09-22. |
+| T35 | Structural discrepancy versus Θ uncertainty after a rank-preserving reduction | [thesis-35-discrepancy-vs-theta-uncertainty](https://github.com/cloudynirvana/thesis-35-discrepancy-vs-theta-uncertainty) | `dedicated-repo-published` | Y | Y | Y | Nile University B.Sc. chapters (Sep 2026). Canonical manuscript is the dedicated-repo `THESIS.md` / `THESIS.pdf`. After a documented stiff–sloppy reduction that preserves multi-channel practical ranks, held-out coverage A (parameter-only) = 0.755 vs B (+structured discrepancy) = 1.000 on this toy. Depends on T24×T28. Open item: profile of omitted `k_par` with the residual co-estimated (addendum in the same repo, not a new ID). Research only; not a medical device; no document DOI. Snapshot 2026-09-22. |
 
 
 ## DEPRECATED — orphan scaffolds (do not continue)
@@ -184,3 +185,4 @@ Thesis 02 is **not** in this folder; it is catalogued under T02 and C-CS.
 | Thesis 32 dedicated landing | https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport |
 | Thesis 33 dedicated landing | https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks |
 | Thesis 34 dedicated landing | https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance |
+| Thesis 35 dedicated landing | https://github.com/cloudynirvana/thesis-35-discrepancy-vs-theta-uncertainty |
