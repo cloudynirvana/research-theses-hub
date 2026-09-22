@@ -29,6 +29,7 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | Document | Role |
 | --- | --- |
 | [CATALOG.md](CATALOG.md) | Titles, repos, status, Problem–Justification–Significance flags |
+| Public site | [confluence-archive](https://github.com/cloudynirvana/confluence-archive) — T00–T35 as named medical-modelling problems; cold-email letters and grokbot handoff |
 | [CITATION_GUIDE.md](CITATION_GUIDE.md) | How to cite from GitHub |
 | [NEXT_PAPERS.md](NEXT_PAPERS.md) | Problem topics, all published (NP-01→T09; NP-02→T11; NP-03→T04; NP-04→T12; NP-05→T05; NP-06→T06; NP-07→T13; NP-08→T14) |
 | [VALIDATION_NEXT.md](VALIDATION_NEXT.md) | T35 published; T36/T42 rewritten; T37/T41 held; T38–T40, T43 held. Next: T35 `k_par` addendum, then T42 |
