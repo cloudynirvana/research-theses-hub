@@ -1,8 +1,8 @@
 # Next papers
 
-> **Validation wave:** planned theses T35–T37, T41–T42 (and held T38–T40,
-> T43) live in [VALIDATION_NEXT.md](VALIDATION_NEXT.md). Do **not** open
-> new repos for those until the hub index of T19–T34 has merged.
+> **Validation wave:** T35 is **published**. Remaining IDs (rewritten T36/T42;
+> held T37/T41; held T38–T40, T43) live in [VALIDATION_NEXT.md](VALIDATION_NEXT.md).
+> Next scientific step is a T35 addendum (`k_par` vs residual), not a new T36 toy.
 
 Five-to-eight **new** medical/computational problem topics. They were
 intentionally **not** restatements of theses 01–03. All eight items
