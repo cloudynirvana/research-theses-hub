@@ -20,8 +20,9 @@ This hub is a map, not a journal. Cross-links between Thesis 0 and
 theses 01–35 belong **only here** (and in READMEs), never as if they
 were one study. Cite GitHub now
 ([CITATION_GUIDE.md](CITATION_GUIDE.md)). Google Scholar and ResearchGate
-handoff is **manual and later**. No document DOI is registered here.
-Do not invent DOIs.
+handoff is **manual and later**. **Thesis 52 is the first deposit with a
+registered DOI** (Zenodo, 7 October 2026); every other thesis here still has
+none. Cite a DOI only where this hub records one, and never invent one.
 
 **Research only.** Not a medical device. Not clinical decision support.
 Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
@@ -104,6 +105,12 @@ Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF pa
 | **33** | Chain-recurrent labels recoverable from multi-channel ranks that survive stiff–sloppy reduction | [thesis-33-chain-recurrent-under-surviving-ranks](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-33-chain-recurrent-under-surviving-ranks/blob/main/THESIS.md) on the landing repo |
 | **34** | Named AgNP observation-channel scores as forcing provenance under evidence gates | [thesis-34-agnp-channel-forcing-provenance](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-34-agnp-channel-forcing-provenance/blob/main/THESIS.md) on the landing repo |
 | **35** | Structural discrepancy versus Θ uncertainty after a rank-preserving reduction | [thesis-35-discrepancy-vs-theta-uncertainty](https://github.com/cloudynirvana/thesis-35-discrepancy-vs-theta-uncertainty) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-35-discrepancy-vs-theta-uncertainty/blob/main/THESIS.md) on the landing repo |
+| **52** | Closed-Loop Agentic Care Planning for Cervical Cancer: A Gated Action–Observation Framework, Synthetic Worked Example and Study Protocol | [thesis-52-agentic-care-loops](https://github.com/cloudynirvana/thesis-52-agentic-care-loops) | [`THESIS.md`](https://github.com/cloudynirvana/thesis-52-agentic-care-loops/blob/main/THESIS.md) on the landing repo · **DOI [10.5281/zenodo.23210715](https://doi.org/10.5281/zenodo.23210715)** |
+
+**Numbering gap.** Theses 36–51 have landing repositories but are **not yet
+indexed in this hub**. Thesis 52 is listed because it is the first deposit
+carrying a DOI. Treat the table as incomplete between 36 and 51 until those
+rows are added.
 
 | Thesis | One-line problem (research-scoped) |
 | --- | --- |
@@ -143,6 +150,7 @@ Landing repos exist. As of 22 September 2026 they hold full `THESIS.md` + PDF pa
 | 33 | Which chain-recurrent labels remain recoverable from multi-channel ranks that survive reduction? (T26×T24) |
 | 34 | Which AgNP channel scores may be admitted only as tip-ODE forcing provenance under the gates? (T08×T19) |
 | 35 | After a rank-preserving reduction, is held-out error dominated by structural discrepancy rather than Θ uncertainty? (T24×T28) |
+| 52 | Can the care of one patient be written as a gated action–observation loop in which a plan may not commit to a therapeutic class until the observations that decide it are present, and an agent maintains that loop while clinicians stage, choose, dose and consent? |
 
 Public HTML/PDF surfaces (source repos; not journal records; no thesis DOI):
 
