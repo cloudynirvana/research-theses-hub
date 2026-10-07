@@ -36,6 +36,9 @@ Not a dose. Not a cure. See [DISCLAIMER.md](DISCLAIMER.md).
 | [VALIDATION_NEXT.md](VALIDATION_NEXT.md) | T35 published; T36/T42 rewritten; T37/T41 held; T38–T40, T43 held. Next: T35 `k_par` addendum, then T42 |
 | [REFINED_NEXT_THESES.md](REFINED_NEXT_THESES.md) | Journal-path refinements (R1→T08; R2→T07; R3→T10; R4→T15; R5→T16). T17 and T18 are published computational objects outside that list. |
 | [CITATION.cff](CITATION.cff) | Machine-readable citation for this hub |
+| [docs/AUTONOMOUS_DEPOSIT.md](docs/AUTONOMOUS_DEPOSIT.md) | How a thesis gets a DOI: what automates, what stays manual, and why |
+| [scripts/thesis_check.py](scripts/thesis_check.py) | Pre-deposit gate: structure, citation metadata, patient-identifier scan |
+| [scripts/thesis_deposit.py](scripts/thesis_deposit.py) | Deposits a thesis to Zenodo via API and writes the DOI back |
 
 ---
 

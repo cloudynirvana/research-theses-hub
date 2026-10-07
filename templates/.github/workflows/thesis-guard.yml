@@ -1,0 +1,35 @@
+# Pre-deposit gate for a thesis repository.
+#
+# Copy this file to .github/workflows/thesis-guard.yml in each thesis repo.
+# It pulls the single source of truth from research-theses-hub, so fixing the
+# gate once fixes it everywhere.
+name: thesis guard
+
+on:
+  push:
+  pull_request:
+  release:
+    types: [published]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install --quiet pyyaml
+
+      - name: Fetch the gate
+        run: |
+          curl -fsSL -o /tmp/thesis_check.py \
+            https://raw.githubusercontent.com/cloudynirvana/research-theses-hub/main/scripts/thesis_check.py
+
+      - name: Run the gate
+        run: python3 /tmp/thesis_check.py .
