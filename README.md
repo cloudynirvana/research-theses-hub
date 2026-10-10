@@ -1,5 +1,7 @@
 # Research Theses Hub
 
+> **Start here.** This repository indexes short exploratory write-ups by Kelechi Emeka Ogbonna. Theses 01 onward are computational thought experiments (in-silico only, not peer reviewed, not validated on patients). For tested software, see [qslite](https://github.com/cloudynirvana/qslite) and [Project Confluence](https://github.com/cloudynirvana/project-confluence). The full list of thesis repos is in [CATALOG.md](CATALOG.md).
+
 Index of thesis-worthy works by **Kelechi Emeka Ogbonna**.
 
 **Thesis 0** is the awarded wet-lab B.Sc. (Nile University of Nigeria,
